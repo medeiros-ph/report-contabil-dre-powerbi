@@ -1,0 +1,111 @@
+Nº da conta,Nome da conta,Descrição 1,Descrição 2,Descrição 3,ord1,ord2
+301010102,Vendas de Mercadorias para Mercado Interno,Receita Bruta,Serviços,Serviços,1,2
+301010105,Vendas de Serviços Prestados - Intermediação Suporte,Receita Bruta,Serviços,Serviços,1,2
+301010106,Vendas de Serviços Prestados - Intermediação Adquirência,Receita Bruta,Serviços,Serviços,1,2
+301010110,Vendas de Serviços Prestados – Consultoria geral,Receita Bruta,Serviços,Serviços,1,2
+301010111,Vendas de Serviços Prestados – Consultoria personalizada,Receita Bruta,Serviços,Serviços,1,3
+301010112,Receita com Assinatura,Receita Bruta,Assinatura,Assinatura,1,1
+301010113,Receita com Crédito de Suporte,Receita Bruta,Crédito de Suporte,,1,4
+301010201,"( - ) Vendas Canceladas, Devoluções e Descontos Incondicionais",Receita Bruta,Serviços,Serviços,1,2
+301010202,( - ) ICMS,Impostos e deduções,ICMS,,2,7
+301010204,( - ) PIS/PASEP,Impostos e deduções,PIS,Pis,2,5
+301010205,( - ) COFINS,Impostos e deduções,COFINS,Cofins,2,6
+301010206,( - ) ISS,Impostos e deduções,ISS,Iss,2,8
+302010106,Recuperação de Despesas,Outras Despesas não Operacionais,Outras Receitas/Despesas Operacionais,Outras Receitas/Despesas Operacionais,8,25
+302010107,descontos obtidos,Resultado Financeiro,Receita Financeira,Receita Financeira,11,28
+302010108,Juros Recebidos,Resultado Financeiro,Receita Financeira,Receita Financeira,11,28
+302010109,Rendimentos de Aplicações Financeiras,Resultado Financeiro,Receita Financeira,Receita Financeira,11,28
+302010110,Outras Receitas Financeiras,Resultado Financeiro,Receita Financeira,Receita Financeira,11,28
+302010111,(-)PIS s/ receita financeira,Resultado Financeiro,Receita Financeira,Receita Financeira,11,28
+302010112,(-)COFINS s/ receita financeira,Resultado Financeiro,Receita Financeira,Receita Financeira,11,28
+302010113,Variação monetária,Resultado Financeiro,Receita Financeira,Receita Financeira,11,28
+401010102,"Ordenados, Salários Gratificações e Outras Remunerações a Empregados",Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010110,13º Salário,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010112,Aviso Prévio,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010114,Indenizações Trabalhistas,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010115,Provisão 13º Salário,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010116,Provisão Férias,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010117,Provisão FGTS 13º Salário,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010118,Provisão FGTS Férias,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010119,Provisão INSS 13º Salário,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010120,Provisão INSS Férias,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010123,Serviços de Recrutamento e Seleção,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010199,Outros Gastos com Pessoal,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010202,Encargos Sociais - Previdência Social,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010203,Encargos Sociais - FGTS,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010302,Benefícios Corporativos,Despesas Operacionais,Despesas com Pessoal Corporativo,Despesas com Pessoal,5,18
+401010401,Aluguéis,Despesas Operacionais,Despesas Administrativas e Gerais,Despesa c/ infra e Material de Escritorio,5,19
+401010404,Energia Elétrica,Despesas Operacionais,Despesas Administrativas e Gerais,Despesa c/ infra e Material de Escritorio,5,19
+401010407,Despesas Assessoria e Consultoria,Despesas Operacionais,Despesas Administrativas e Gerais,"Assessoria, Consultoria e Auditoria",5,19
+401010408,Honorários Advocatícios,Despesas Operacionais,Despesas Administrativas e Gerais,"Assessoria, Consultoria e Auditoria",5,19
+401010410,Telefone e Link de Dados,Despesas Operacionais,Despesas Administrativas e Gerais,Despesa c/ infra e Material de Escritorio,5,19
+401010412,Prestação Serviço Administrativo Terceiros - PJ,Despesas Operacionais,Serviços Terceiros Administrativos,Prestação Serviço Administrativo Terceiros - PJ,5,22
+401010413,Prestação de Serviço Comercial,Despesas com Vendas,Despesas Comerciais,Despesas Comerciais Vendas,4,14
+401010414,(-) Crédito PIS,Custo,Outros Custos,Outros,3,13
+401010415,(-) Crédito COFINS,Custo,Outros Custos,Outros,3,13
+401010416,Condominio,Despesas Operacionais,Despesas Administrativas e Gerais,Despesa c/ infra e Material de Escritorio,5,19
+401010418,Despesas com Agência de Marketing,Despesas Operacionais,Despesas de Marketing,Agencia de Marketing,4,15
+401010420,"Serviços de hospedagem, armazenamento e processamento de dados",Despesas Operacionais,Despesas com Tecnologia,Despesas com Tecnologia,5,20
+401010421,Licenciamento de Software,Despesas Operacionais,Despesas com Tecnologia,Despesas com Tecnologia,5,20
+401010422,Bens de pequeno valores,Despesas Operacionais,Despesas Administrativas e Gerais,Outras Despesas Administrativas,5,19
+401010423,Despesas com TI,Despesas Operacionais,Despesas com Tecnologia,Despesas com Tecnologia,5,20
+401010424,Despesas com Comercialização,Despesas com Vendas,Serviços Terceiros de Vendas,Serviços Terceiros de Vendas,4,17
+401010499,Outras Despesas Administrativas,Despesas Operacionais,Despesas Administrativas e Gerais,Outras Despesas Administrativas,5,19
+401010503,Associações e Sindicato,Despesas Operacionais,Despesas Administrativas e Gerais,Outras Despesas Administrativas,5,19
+401010507,Correios e Telégrafos,Despesas Operacionais,Despesas Administrativas e Gerais,Outras Despesas Administrativas,5,19
+401010508,Cursos e Treinamentos,Despesas Operacionais,Despesas Administrativas e Gerais,Outras Despesas Administrativas,5,19
+401010514,Despesas com Copa e Lanches,Despesas Operacionais,Despesas Administrativas e Gerais,Outras Despesas Administrativas,5,19
+401010518,"Propaganda, Publicidade e Patrocínio",Despesas Operacionais,Despesas de Marketing,Campanhas e Publicidade,4,15
+401010521,Eventos e Comemorações,Despesas Operacionais,Despesas de Marketing,Campanhas e Publicidade,4,15
+401010524,Higiene e Limpeza,Despesas com Vendas,Despesas Administrativas e Gerais,Outras Despesas Administrativas,4,19
+401010525,Impressos e Material para Escritório,Despesas com Vendas,Despesas Administrativas e Gerais,Outras Despesas Administrativas,4,19
+401010529,Manutenção Móveis e Utensílios,Despesas com Vendas,Despesas Administrativas e Gerais,Despesa c/ infra e Material de Escritorio,4,19
+401010532,Materiais de Uso e Consumo,Despesas com Vendas,Despesas Administrativas e Gerais,Outras Despesas Administrativas,4,19
+401010535,Prestação Serviço Terceiros - PJ,Despesas com Vendas,Despesas com Tecnologia,Despesas com Tecnologia,4,20
+401010536,Seguros Diversos,Despesas com Vendas,Despesas Administrativas e Gerais,Outras Despesas Administrativas,4,19
+401010537,"Despesas com Viagens, Diárias e Ajuda de Custo",Despesas com Vendas,Despesas Administrativas e Gerais,Outras Despesas Administrativas,4,19
+401010538,Estacionamento,Despesas com Vendas,Despesas Administrativas e Gerais,Despesa c/ infra e Material de Escritorio,4,19
+401010539,Despesas com deslocamento,Despesas com Vendas,Despesas Administrativas e Gerais,Outras Despesas Administrativas,4,19
+401010605,Fretes e Carretos,Despesas Operacionais,Despesas Administrativas e Gerais,Despesa c/ infra e Material de Escritorio,5,19
+401010606,Prestação Serviço Comercial Terceiros - PJ,Despesas com Vendas,Despesas com Pessoal de Vendas,Despesas com Pessoal de Vendas,4,16
+401010607,Despesa com Cash Back,Custo,Outros Custos,Cashback,3,13
+401010703,Impostos e Taxas Diversas,Despesas Operacionais,Despesas Administrativas e Gerais,Outras Despesas Administrativas,5,19
+401010704,IOF,Resultado Financeiro,Despesas Financeiras,Despesas Financeiras,5,21
+401010705,IPTU,Despesas Operacionais,Despesas Administrativas e Gerais,Despesa c/ infra e Material de Escritorio,5,19
+401010801,Depreciação,Depreciação e Amortização,Depreciação e Amortização,Depreciação e Amortização,9,26
+401010802,Amortização,Depreciação e Amortização,Depreciação e Amortização,Depreciação e Amortização,9,26
+401010803,( - ) PIS s/ Depreciação e amortização,Depreciação e Amortização,Depreciação e Amortização,Depreciação e Amortização,9,26
+401010804,( - ) COFINS s/ Depreciação e amortização,Depreciação e Amortização,Depreciação e Amortização,Depreciação e Amortização,9,26
+401010901,Perdas em Operações de Crédito,Outras Despesas Operacionais,Outras Receitas/Despesas Operacionais,Outras Receitas/Despesas Operacionais,6,25
+401011101,Despesa com Demanda de Loja,Custo,Outros Custos,Outros,3,13
+401011102,(-) Repasse com Demanda da Loja,Custo,Outros Custos,Outros,3,13
+401011103,Provisão Locação Variável,Custo,Custo Arrendamento de Loja,Custo Locação Variável de Loja,3,9
+401011104,Locação de Equipamento de geração de energia elétrica,Custo,Custo Arrendamento de Loja,Custos c/juros de Arrendamento Loja,3,9
+401011106,Despesas com Operação e Manutenção da Loja,Custo,Custo Arrendamento de Loja,Despesas Operação e Manutenção (O&M),3,9
+401020101,Variações Cambiais Passivas,Resultado Financeiro,Despesas Financeiras,Despesas Financeiras,11,21
+401020107,Despesa com Custo de Ociosidade,Outras Despesas Operacionais,Ociosidade,Ociosidade,6,23
+401020199,Outras Despesas Operacionais,Outras Despesas Operacionais,Outras Receitas/Despesas Operacionais,Outras Receitas/Despesas Operacionais,6,25
+402010101,Despesas de Alienações de Bens e Direitos do Ativo Imobilizado,Despesas não Operacionais,Receitas/Despesas não Operacionais,Receitas/Despesas não Operacionais,7,24
+402010102,Perdas de Capital com Ativo Imobilizado,Despesas não Operacionais,Receitas/Despesas não Operacionais,Receitas/Despesas não Operacionais,7,24
+402010105,Descontos Concedidos,Resultado Financeiro,Despesas Financeiras,Despesas Financeiras,11,21
+402010106,Despesas Bancárias Manutenção Conta,Resultado Financeiro,Despesas Financeiras,Despesas Financeiras,11,21
+402010109,Juros de Mora,Resultado Financeiro,Despesas Financeiras,Despesas Financeiras,11,21
+402010110,Juros Financiamentos/Empréstimos,Resultado Financeiro,Despesas Financeiras,Despesas Financeiras,11,21
+402010111,Juros Passivos,Resultado Financeiro,Despesas Financeiras,Despesas Financeiras,11,21
+402010114,Outras Despesas Financeiras,Resultado Financeiro,Despesas Financeiras,Despesas Financeiras,11,21
+402010115,Despesas Indedutiveis,Despesas não Operacionais,Receitas/Despesas não Operacionais,Receitas/Despesas não Operacionais,7,24
+402010118,Despesa com remuneração baseada em ações,Despesas não Operacionais,Receitas/Despesas não Operacionais,Receitas/Despesas não Operacionais,7,24
+403010101,IRPJ,Imposto de Renda e Contribuição Social,Imposto de Renda e Contribuição Social,Imposto de Renda e Contribuição Social,10,27
+403010102,CSLL,Imposto de Renda e Contribuição Social,Imposto de Renda e Contribuição Social,Imposto de Renda e Contribuição Social,10,27
+503010105,Amortização de Arrendamento,Custo,Custo Arrendamento de Loja,Custo Amortização Arrendamento de Loja,3,9
+503010106,Cash Back,Custo,Outros Custos,Cashback,3,13
+503010107,Aquisição de Matéria,Custo,Custo Crédito de Matéria,Custo Crédito de Matéria,3,10
+503010108,Custo Variável de Loja,Custo,Custo Arrendamento de Loja,Custo Locação Variável de Loja,3,9
+503010109,Custos com juros de arrendamento,Custo,Custo Arrendamento de Loja,Custos c/juros de Arrendamento Loja,3,9
+503010110,Custo de Operação e Manutenção da Loja (O&M),Custo,Custo Arrendamento de Loja,Despesas Operação e Manutenção (O&M),3,9
+503010111,Custo com Vale Suporte,Custo,Despesa com Vale Energia,Despesa com Vale Energia,3,11
+503010119,( - ) PIS/PASEP,Custo,Crédito Pis/Cofins s/Locação,Créditos Pis/Cofins s/Locação,3,12
+503010120,( - ) COFINS,Custo,Crédito Pis/Cofins s/Locação,Créditos Pis/Cofins s/Locação,3,12
+503010199,Outros Custos,Custo,Outros Custos,Outros,3,13
+602020102,IRPJ Diferido,Despesas não Operacionais,Receitas/Despesas não Operacionais,Receitas/Despesas não Operacionais,7,24
+602020103,CSLL Diferida,Despesas não Operacionais,Receitas/Despesas não Operacionais,Receitas/Despesas não Operacionais,7,24

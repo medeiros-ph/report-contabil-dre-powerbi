@@ -1,0 +1,39 @@
+Nivel 1,Nível 2,ord1,ord2
+Receita bruta,Assinatura,1,1
+Receita bruta,Serviços,1,3
+Impostos e deduções,Impostos sobre receita,2,4
+Impostos e deduções,PCLD,2,5
+Impostos e deduções / Receita Bruta,Impostos e deduções / Receita Bruta,3,6
+Receita líquida,Receita líquida,4,7
+Custos,Arrendamento de Usinas,5,8
+Custos,Créditos de PIS e COFINS s/ Locação,5,9
+Custos,Custo Carbono,5,10
+Custos,Custo Promocional/Prêmios,5,11
+Custos,Custo Energia,5,12
+Custos,Custo Blockchain,5,13
+Custos,Outros Custos,5,14
+Lucro bruto,Lucro bruto,6,15
+Margem Bruta,Margem Bruta,7,16
+Despesas com Vendas,Serviços terceiros de vendas,8,17
+Despesas com Vendas,Despesas com pessoal de vendas,8,18
+Despesas com Vendas,Despesas comerciais,8,19
+Despesas com Vendas,Despesas Administrativas e Gerais,8,21
+Despesas com Vendas,Despesas com Tecnologia,8,22
+Margem de contribuição,Margem de contribuição,9,23
+Margem de contribuição %,Margem de contribuição %,10,24
+Despesas operacionais,Despesas com pessoal corporativo,11,25
+Despesas operacionais,Serviços terceiros administrativos,11,26
+Despesas operacionais,Despesas tecnologia,11,28
+Despesas operacionais,Despesas Administrativas/Gerais,11,29
+Despesas operacionais,Desp. financeiras,11,30
+Despesas operacionais,Despesas de Marketing,11,31
+Outras despesas operacionais,Ociosidade,12,32
+Outras despesas operacionais,Outras Receitas/Despesas Operacionais,12,33
+EBITDA,EBITDA,13,34
+Margem EBITDA,Margem EBITDA,14,35
+Depreciação e amortização,Depreciação e amortização,15,36
+Resultado financeiro,Receitas financeiras,16,37
+Resultado financeiro,Despesas financeiras,16,38
+Imposto de renda e contribuição social,Imposto de renda e contribuição social,17,39
+Lucro (Prejuízo líquido),Lucro (Prejuízo líquido),18,40
+Margem líquida,Margem líquida,19,41

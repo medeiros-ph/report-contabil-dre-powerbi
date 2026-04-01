@@ -1,0 +1,738 @@
+Código,Descrição,Nível 0,Nivel 1,Nível 2,Nível 3,Nivel 4
+101,Circulante,,Circulante,,,
+10101,Disponibilidades,,Circulante,Disponibilidades,,
+1010101,Caixa,,Circulante,Disponibilidades,Caixa,
+101010101,Caixa Geral,,Circulante,Disponibilidades,Caixa,Caixa Geral
+101010102,Valores Transitórios,,Circulante,Disponibilidades,Caixa,Valores Transitórios
+101010103,Transitoria De Renegociação,,Circulante,Disponibilidades,Caixa,Transitoria De Renegociação
+1010102,Bancos,,Circulante,Disponibilidades,Bancos,Transitoria De Renegociação
+101010201,Banco Itaú,,Circulante,Disponibilidades,Bancos,Banco Itaú
+101010202,Banco Do Brasil,,Circulante,Disponibilidades,Bancos,Banco Do Brasil
+101010203,Banco Topázio,,Circulante,Disponibilidades,Bancos,Banco Topázio
+101010204,Banco Sunpay Bank,,Circulante,Disponibilidades,Bancos,Banco Sunpay Bank
+101010205,Banco Rendimento,,Circulante,Disponibilidades,Bancos,Banco Rendimento
+101010206,Banco Celcoin (Digital),,Circulante,Disponibilidades,Bancos,Banco Celcoin (Digital)
+101010207,Banco Pagarme,,Circulante,Disponibilidades,Bancos,Banco Pagarme
+101010208,Banco Bradesco - 1781-7,,Circulante,Disponibilidades,Bancos,Banco Bradesco - 1781-7
+1010103,Aplicações Financeiras,,Circulante,Disponibilidades,Aplicações Financeiras,Banco Bradesco - 1781-7
+101010301,Aplic. Financeira Banco Do Brasil,,Circulante,Disponibilidades,Aplicações Financeiras,Aplic. Financeira Banco Do Brasil
+101010302,Aplic. Financeira Banco Itau,,Circulante,Disponibilidades,Aplicações Financeiras,Aplic. Financeira Banco Itau
+101010303,Aplic Autom - Banco Do Brasil,,Circulante,Disponibilidades,Aplicações Financeiras,Aplic Autom - Banco Do Brasil
+101010304,Cdb Plus,,Circulante,Disponibilidades,Aplicações Financeiras,Cdb Plus
+101010305,Aplic Aut Mais,,Circulante,Disponibilidades,Aplicações Financeiras,Aplic Aut Mais
+101010306,Aplic. Financeira Rende Fácil - Banco Do Brasil,,Circulante,Disponibilidades,Aplicações Financeiras,Aplic. Financeira Rende Fácil - Banco Do Brasil
+101010307,Aplic Cdb Bradesco,,Circulante,Disponibilidades,Aplicações Financeiras,Aplic Cdb Bradesco
+101010308,Aplic. Invest Fácil - Bradesco,,Circulante,Disponibilidades,Aplicações Financeiras,Aplic. Invest Fácil - Bradesco
+1010104,Títulos E Valores Mobiliários,,Circulante,Disponibilidades,Títulos E Valores Mobiliários,Aplic. Invest Fácil - Bradesco
+101010401,Valores Mobiliários - Mercado De Capitais Interno,,Circulante,Disponibilidades,Títulos E Valores Mobiliários,Valores Mobiliários - Mercado De Capitais Interno
+101010402,Valores Mobiliários - Mercado De Capitais Externo,,Circulante,Disponibilidades,Títulos E Valores Mobiliários,Valores Mobiliários - Mercado De Capitais Externo
+1010105,Valores Mobiliários - Aplicações De Subvenções,,Circulante,Disponibilidades,Valores Mobiliários - Aplicações De Subvenções,Valores Mobiliários - Mercado De Capitais Externo
+101010501,Valores Mobiliários - Aplicações De Subvenções,,Circulante,Disponibilidades,Valores Mobiliários - Aplicações De Subvenções,Valores Mobiliários - Aplicações De Subvenções
+1010106,Valores Mobiliários - Aplicações De Doações,,Circulante,Disponibilidades,Valores Mobiliários - Aplicações De Doações,Valores Mobiliários - Aplicações De Subvenções
+101010601,Valores Mobiliários - Aplicações De Doações,,Circulante,Disponibilidades,Valores Mobiliários - Aplicações De Doações,Valores Mobiliários - Aplicações De Doações
+1010107,Valores Mobiliários - Aplicações De Outros Recursos Sujeitos A Restrições,,Circulante,Disponibilidades,Valores Mobiliários - Aplicações De Outros Recursos Sujeitos A Restrições,Valores Mobiliários - Aplicações De Doações
+101010701,Valores Mobiliários - Aplicações De Outros Recursos Sujeitos A Restrições,,Circulante,Disponibilidades,Valores Mobiliários - Aplicações De Outros Recursos Sujeitos A Restrições,Valores Mobiliários - Aplicações De Outros Recursos Sujeitos A Restrições
+10102,Estoques,,Circulante,Estoques,Valores Mobiliários - Aplicações De Outros Recursos Sujeitos A Restrições,Valores Mobiliários - Aplicações De Outros Recursos Sujeitos A Restrições
+1010201,Estoques,,Circulante,Estoques,Estoques,Valores Mobiliários - Aplicações De Outros Recursos Sujeitos A Restrições
+101020101,Mercadorias Para Revenda,,Circulante,Estoques,Estoques,Mercadorias Para Revenda
+101020102,Produtos Acabados,,Circulante,Estoques,Estoques,Produtos Acabados
+101020103,Produtos Em Elaboração,,Circulante,Estoques,Estoques,Produtos Em Elaboração
+101020104,1.01.02.01.04,,Circulante,Estoques,Estoques,1.01.02.01.04
+101020105,Matérias-Primas (Insumos),,Circulante,Estoques,Estoques,Matérias-Primas (Insumos)
+101020106,Materiais De Embalagem,,Circulante,Estoques,Estoques,Materiais De Embalagem
+101020107,Estoque De Terceiro,,Circulante,Estoques,Estoques,Estoque De Terceiro
+101020108,Estoque Em Poder De Terceiro,,Circulante,Estoques,Estoques,Estoque Em Poder De Terceiro
+101020109,Estoque De Carbono,,Circulante,Estoques,Estoques,Estoque De Carbono
+101020199,( - ) Transitória - Recebimento Físico/Fiscal,,Circulante,Estoques,Estoques,( - ) Transitória - Recebimento Físico/Fiscal
+1010202,Estoques De Importação Em Andamento,,Circulante,Estoques,Estoques De Importação Em Andamento,( - ) Transitória - Recebimento Físico/Fiscal
+101020201,Importação Em Andamento,,Circulante,Estoques,Estoques De Importação Em Andamento,Importação Em Andamento
+1010203,Compras Para Entrega Futura,,Circulante,Estoques,Compras Para Entrega Futura,Importação Em Andamento
+101020301,Compras Para Entrega Futura,,Circulante,Estoques,Compras Para Entrega Futura,Compras Para Entrega Futura
+1010204,Imóveis Destinados À Venda,,Circulante,Estoques,Imóveis Destinados À Venda,Compras Para Entrega Futura
+101020401,Construções Em Andamento De Imóveis Destinados À Venda,,Circulante,Estoques,Imóveis Destinados À Venda,Construções Em Andamento De Imóveis Destinados À Venda
+1010205,Estoques Destinados À Doação,,Circulante,Estoques,Estoques Destinados À Doação,Construções Em Andamento De Imóveis Destinados À Venda
+101020501,Estoques Destinados À Doação,,Circulante,Estoques,Estoques Destinados À Doação,Estoques Destinados À Doação
+1010206,Outras,,Circulante,Estoques,Outras,Estoques Destinados À Doação
+101020601,Outras,,Circulante,Estoques,Outras,Outras
+101020602,Despesa Antecipada - Seguro Garantia,,Circulante,Estoques,Outras,Despesa Antecipada - Seguro Garantia
+10103,Créditos,,Circulante,Créditos,Outras,Despesa Antecipada - Seguro Garantia
+1010301,Clientes,,Circulante,Créditos,Clientes,Despesa Antecipada - Seguro Garantia
+101030101,Clientes Nacionais,,Circulante,Créditos,Clientes,Clientes Nacionais
+101030102,Clientes Estrangeiros,,Circulante,Créditos,Clientes,Clientes Estrangeiros
+101030103,Provisão De Contas A Receber - Clientes,,Circulante,Créditos,Clientes,Provisão De Contas A Receber - Clientes
+1010302,Adiantamentos A Fornecedores,,Circulante,Créditos,Adiantamentos A Fornecedores,Provisão De Contas A Receber - Clientes
+101030201,Adiantamentos A Fornecedores,,Circulante,Créditos,Adiantamentos A Fornecedores,Adiantamentos A Fornecedores
+101030202,Adiantamento De Cartão De Crédito,,Circulante,Créditos,Adiantamentos A Fornecedores,Adiantamento De Cartão De Crédito
+101030203,Adiantamento De Cartão De Crédito,,Circulante,Créditos,Adiantamentos A Fornecedores,Adiantamento De Cartão De Crédito
+101030204,Adiantamento De Fornecedor Parcelado,,Circulante,Créditos,Adiantamentos A Fornecedores,Adiantamento De Fornecedor Parcelado
+1010303,Cheques Recebidos,,Circulante,Créditos,Cheques Recebidos,Adiantamento De Fornecedor Parcelado
+101030301,Cheques Recebidos,,Circulante,Créditos,Cheques Recebidos,Cheques Recebidos
+1010304,Cartões De Crédito,,Circulante,Créditos,Cartões De Crédito,Cheques Recebidos
+101030401,Visa,,Circulante,Créditos,Cartões De Crédito,Visa
+101030402,Mastercard,,Circulante,Créditos,Cartões De Crédito,Mastercard
+1010305,Adiantamentos A Colaboradores,,Circulante,Créditos,Adiantamentos A Colaboradores,Mastercard
+101030501,Adiantamentos De Salários,,Circulante,Créditos,Adiantamentos A Colaboradores,Adiantamentos De Salários
+101030502,Adiantamentos De Férias,,Circulante,Créditos,Adiantamentos A Colaboradores,Adiantamentos De Férias
+101030503,Adiantamentos De 13º Salário,,Circulante,Créditos,Adiantamentos A Colaboradores,Adiantamentos De 13º Salário
+101030504,Adiantamentos De Pró-Labore,,Circulante,Créditos,Adiantamentos A Colaboradores,Adiantamentos De Pró-Labore
+101030505,Adiantamentos Para Viagem,,Circulante,Créditos,Adiantamentos A Colaboradores,Adiantamentos Para Viagem
+101030506,Adiantamento De Cartão De Crédito,,Circulante,Créditos,Adiantamentos A Colaboradores,Adiantamento De Cartão De Crédito
+1010306,Impostos E Contribuições A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Adiantamento De Cartão De Crédito
+101030601,Icms E Contribuições A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Icms E Contribuições A Recuperar
+101030602,Ipi A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Ipi A Recuperar
+101030603,Pis A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Pis A Recuperar
+101030604,Cofins A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Cofins A Recuperar
+101030605,Csll A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Csll A Recuperar
+101030606,Imposto De Renda A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Imposto De Renda A Recuperar
+101030607,Pis Retido A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Pis Retido A Recuperar
+101030608,Cofins Retido A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Cofins Retido A Recuperar
+101030609,Csll Retido A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Csll Retido A Recuperar
+101030610,Icms Sobre Imobilizado,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Icms Sobre Imobilizado
+101030611,Pis Sobre Imobilizado,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Pis Sobre Imobilizado
+101030612,Cofins Sobre Imobilizado,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Cofins Sobre Imobilizado
+101030613,Iss Retido A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Iss Retido A Recuperar
+101030614,Ir S/ Aplicação Financeira,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Ir S/ Aplicação Financeira
+101030615,Saldo Negativo - Irpj,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Saldo Negativo - Irpj
+101030616,Pcc Pago A Maior,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Pcc Pago A Maior
+101030617,Pis Pago A Maior,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Pis Pago A Maior
+101030618,Cofins Pago A Maior,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Cofins Pago A Maior
+101030619,Inss Pago A Maior,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Inss Pago A Maior
+101030630,Provisão De Irrf S/ Aplic Financeira,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Provisão De Irrf S/ Aplic Financeira
+101030699,Outros Impostos E Contribuições A Recuperar,,Circulante,Créditos,Impostos E Contribuições A Recuperar,Outros Impostos E Contribuições A Recuperar
+1010307,Créditos Por Contribuições E Doações,,Circulante,Créditos,Créditos Por Contribuições E Doações,Outros Impostos E Contribuições A Recuperar
+101030701,Créditos Por Contribuições E Doações,,Circulante,Créditos,Créditos Por Contribuições E Doações,Créditos Por Contribuições E Doações
+1010308,Outras,,Circulante,Créditos,Outras,Créditos Por Contribuições E Doações
+101030801,Outros Creditos,,Circulante,Créditos,Outras,Outros Creditos
+101030802,Derivativos De Hedge/Operações De Swap,,Circulante,Créditos,Outras,Derivativos De Hedge/Operações De Swap
+101030803,Créditos De Energia Variável - Brasol,,Circulante,Créditos,Outras,Créditos De Energia Variável - Brasol
+1010309,Creditos De Pessoa Ligadas,,Circulante,Créditos,Creditos De Pessoa Ligadas,Créditos De Energia Variável - Brasol
+101030901,Sunon Brasil P Ltda,,Circulante,Créditos,Creditos De Pessoa Ligadas,Sunon Brasil P Ltda
+101030902,Consórcio Prospera,,Circulante,Créditos,Creditos De Pessoa Ligadas,Consórcio Prospera
+101030903,Associação Prospera,,Circulante,Créditos,Creditos De Pessoa Ligadas,Associação Prospera
+101030904,Prospera,,Circulante,Créditos,Creditos De Pessoa Ligadas,Prospera
+10104,Despesas Do Exercício Seguinte,,Circulante,Despesas Do Exercício Seguinte,Creditos De Pessoa Ligadas,Prospera
+1010401,Despesas Do Exercício Seguinte,,Circulante,Despesas Do Exercício Seguinte,Despesas Do Exercício Seguinte,Prospera
+101040101,Despesas Do Exercício Seguinte,,Circulante,Despesas Do Exercício Seguinte,Despesas Do Exercício Seguinte,Despesas Do Exercício Seguinte
+10105,Projetos Em Andamento,,Circulante,Projetos Em Andamento,Despesas Do Exercício Seguinte,Despesas Do Exercício Seguinte
+1010501,Usinas,,Circulante,Projetos Em Andamento,Usinas,Despesas Do Exercício Seguinte
+101050101,Juros S/ Arrendamento,,Circulante,Projetos Em Andamento,Usinas,Juros S/ Arrendamento
+101050102,Amortização De Arrendamento,,Circulante,Projetos Em Andamento,Usinas,Amortização De Arrendamento
+101050103,Custo De Operação E Manutenção,,Circulante,Projetos Em Andamento,Usinas,Custo De Operação E Manutenção
+101050104,Custo De Locação Variável,,Circulante,Projetos Em Andamento,Usinas,Custo De Locação Variável
+10109,Contas Retificadoras,,Circulante,Contas Retificadoras,Usinas,Custo De Locação Variável
+1010901,( - ) Contas Retificadoras,,Circulante,Contas Retificadoras,( - ) Contas Retificadoras,Custo De Locação Variável
+101090101,( - ) Provisões Para Créditos De Liquidação Duvidosa,,Circulante,Contas Retificadoras,( - ) Contas Retificadoras,( - ) Provisões Para Créditos De Liquidação Duvidosa
+101090102,( - ) Provisão Para Ajuste Do Estoque Ao Valor De Mercado,,Circulante,Contas Retificadoras,( - ) Contas Retificadoras,( - ) Provisão Para Ajuste Do Estoque Ao Valor De Mercado
+101090103,( - ) Provisões Para Ajuste Ao Valor Provável De Realização,,Circulante,Contas Retificadoras,( - ) Contas Retificadoras,( - ) Provisões Para Ajuste Ao Valor Provável De Realização
+101090199,( - ) Outras Contas Retificadoras,,Circulante,Contas Retificadoras,( - ) Contas Retificadoras,( - ) Outras Contas Retificadoras
+1010902,( - ) Duplicatas Descontadas,,Circulante,Contas Retificadoras,( - ) Duplicatas Descontadas,( - ) Outras Contas Retificadoras
+101090201,( - ) Duplicatas Descontadas - Banco A (Criar Uma Conta Para Cada Conta Bancária),,Circulante,Contas Retificadoras,( - ) Duplicatas Descontadas,( - ) Duplicatas Descontadas - Banco A (Criar Uma Conta Para Cada Conta Bancária)
+102,Não Circulante,,Não Circulante,Contas Retificadoras,( - ) Duplicatas Descontadas,( - ) Duplicatas Descontadas - Banco A (Criar Uma Conta Para Cada Conta Bancária)
+10201,Realizável A Longo Prazo,,Não Circulante,Realizável A Longo Prazo,( - ) Duplicatas Descontadas,( - ) Duplicatas Descontadas - Banco A (Criar Uma Conta Para Cada Conta Bancária)
+1020101,Aplicações Financeiras,,Não Circulante,Realizável A Longo Prazo,Aplicações Financeiras,( - ) Duplicatas Descontadas - Banco A (Criar Uma Conta Para Cada Conta Bancária)
+102010101,Aplicação Financeira - Banco A (Criar Uma Conta Para Cada Conta Bancária),,Não Circulante,Realizável A Longo Prazo,Aplicações Financeiras,Aplicação Financeira - Banco A (Criar Uma Conta Para Cada Conta Bancária)
+1020102,Clientes,,Não Circulante,Realizável A Longo Prazo,Clientes,Aplicação Financeira - Banco A (Criar Uma Conta Para Cada Conta Bancária)
+102010201,Clientes Nacionais - Longo Prazo,,Não Circulante,Realizável A Longo Prazo,Clientes,Clientes Nacionais - Longo Prazo
+102010202,Clientes Estrangeiros - Longo Prazo,,Não Circulante,Realizável A Longo Prazo,Clientes,Clientes Estrangeiros - Longo Prazo
+1020103,Créditos Fiscais,,Não Circulante,Realizável A Longo Prazo,Créditos Fiscais,Clientes Estrangeiros - Longo Prazo
+102010301,Créditos Fiscais Csll - Diferenças Temporárias E Base De Cálculo Negativa,,Não Circulante,Realizável A Longo Prazo,Créditos Fiscais,Créditos Fiscais Csll - Diferenças Temporárias E Base De Cálculo Negativa
+102010302,Créditos Fiscais Irpj - Diferenças Temporárias E Prejuízos Fiscais,,Não Circulante,Realizável A Longo Prazo,Créditos Fiscais,Créditos Fiscais Irpj - Diferenças Temporárias E Prejuízos Fiscais
+1020104,Outras Contas,,Não Circulante,Realizável A Longo Prazo,Outras Contas,Créditos Fiscais Irpj - Diferenças Temporárias E Prejuízos Fiscais
+102010401,Valores Mobiliários,,Não Circulante,Realizável A Longo Prazo,Outras Contas,Valores Mobiliários
+102010402,Depósitos Judiciais,,Não Circulante,Realizável A Longo Prazo,Outras Contas,Depósitos Judiciais
+102010403,Créditos Por Contribuições E Doações,,Não Circulante,Realizável A Longo Prazo,Outras Contas,Créditos Por Contribuições E Doações
+102010404,Contrato De Preferência Enel,,Não Circulante,Realizável A Longo Prazo,Outras Contas,Contrato De Preferência Enel
+1020105,( - ) Contas Retificadoras,,Não Circulante,Realizável A Longo Prazo,( - ) Contas Retificadoras,Contrato De Preferência Enel
+102010501,( - ) Provisões Para Créditos De Liquidação Duvidosa,,Não Circulante,Realizável A Longo Prazo,( - ) Contas Retificadoras,( - ) Provisões Para Créditos De Liquidação Duvidosa
+102010502,( - ) Provisões Para Ajuste Ao Valor Provável De Realização,,Não Circulante,Realizável A Longo Prazo,( - ) Contas Retificadoras,( - ) Provisões Para Ajuste Ao Valor Provável De Realização
+102010599,( - ) Outras Contas Retificadoras,,Não Circulante,Realizável A Longo Prazo,( - ) Contas Retificadoras,( - ) Outras Contas Retificadoras
+1020106,( - ) Duplicatas Descontadas,,Não Circulante,Realizável A Longo Prazo,( - ) Duplicatas Descontadas,( - ) Outras Contas Retificadoras
+102010601,( - ) Duplicatas Descontadas - Banco A (Criar Uma Conta Para Cada Conta Bancária),,Não Circulante,Realizável A Longo Prazo,( - ) Duplicatas Descontadas,( - ) Duplicatas Descontadas - Banco A (Criar Uma Conta Para Cada Conta Bancária)
+1020107,Impostos E Contribuições A Recuperar,,Não Circulante,Realizável A Longo Prazo,Impostos E Contribuições A Recuperar,( - ) Duplicatas Descontadas - Banco A (Criar Uma Conta Para Cada Conta Bancária)
+102010701,Icms Sobre Imobilizado,,Não Circulante,Realizável A Longo Prazo,Impostos E Contribuições A Recuperar,Icms Sobre Imobilizado
+102010702,Pis Sobre Imobilizado,,Não Circulante,Realizável A Longo Prazo,Impostos E Contribuições A Recuperar,Pis Sobre Imobilizado
+102010703,Cofins Sobre Imobilizado,,Não Circulante,Realizável A Longo Prazo,Impostos E Contribuições A Recuperar,Cofins Sobre Imobilizado
+10202,Investimentos,,Não Circulante,Investimentos,Impostos E Contribuições A Recuperar,Cofins Sobre Imobilizado
+1020201,Participações Societárias,,Não Circulante,Investimentos,Participações Societárias,Cofins Sobre Imobilizado
+102020101,Consórcio Simples,,Não Circulante,Investimentos,Participações Societárias,Consórcio Simples
+102020102,Cooperativa De Crédito,,Não Circulante,Investimentos,Participações Societárias,Cooperativa De Crédito
+1020202,Outros Investimentos,,Não Circulante,Investimentos,Outros Investimentos,Cooperativa De Crédito
+102020201,Investimentos Decorrentes De Incentivos Fiscais,,Não Circulante,Investimentos,Outros Investimentos,Investimentos Decorrentes De Incentivos Fiscais
+102020202,Ágios Em Investimentos,,Não Circulante,Investimentos,Outros Investimentos,Ágios Em Investimentos
+102020203,Correção Monetária - Diferença Ipc/Btnf,,Não Circulante,Investimentos,Outros Investimentos,Correção Monetária - Diferença Ipc/Btnf
+102020204,Correção Monetária Especial,,Não Circulante,Investimentos,Outros Investimentos,Correção Monetária Especial
+102020205,( - ) Deságios E Provisão Para Perdas Prováveis Em Investimentos,,Não Circulante,Investimentos,Outros Investimentos,( - ) Deságios E Provisão Para Perdas Prováveis Em Investimentos
+1020203,Controladas E Coligadas,,Não Circulante,Investimentos,Controladas E Coligadas,( - ) Deságios E Provisão Para Perdas Prováveis Em Investimentos
+102020301,Sunon Solar Energia,,Não Circulante,Investimentos,Controladas E Coligadas,Sunon Solar Energia
+102020302,Fip Prospera,,Não Circulante,Investimentos,Controladas E Coligadas,Fip Prospera
+10203,Ativo Imobilizado,,Não Circulante,Ativo Imobilizado,Controladas E Coligadas,Fip Prospera
+1020301,Ativo Imobilizado,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Fip Prospera
+102030101,Edificações E Benfeitorias Em Imóveis Próprios,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Edificações E Benfeitorias Em Imóveis Próprios
+102030102,Edificações E Benfeitorias Em Imóveis De Terceiros,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Edificações E Benfeitorias Em Imóveis De Terceiros
+102030103,Instalações,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Instalações
+102030104,Máquinas E Equipamentos,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Máquinas E Equipamentos
+102030105,Computadores E Periféricos,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Computadores E Periféricos
+102030106,Veículos,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Veículos
+102030107,"Móveis, Utensílios E Instalações Comerciais",,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,"Móveis, Utensílios E Instalações Comerciais"
+102030108,Terrenos,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Terrenos
+102030109,Construções Em Andamento,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Construções Em Andamento
+102030110,Telefones,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Telefones
+102030199,Outros,,Não Circulante,Ativo Imobilizado,Ativo Imobilizado,Outros
+1020302,Compensação Na Aquisição De Ativo Imobilizado,,Não Circulante,Ativo Imobilizado,Compensação Na Aquisição De Ativo Imobilizado,Outros
+102030201,Compensação Na Aquisição De Ativo Imobilizado,,Não Circulante,Ativo Imobilizado,Compensação Na Aquisição De Ativo Imobilizado,Compensação Na Aquisição De Ativo Imobilizado
+1020303,( - ) Depreciações Normais,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,Compensação Na Aquisição De Ativo Imobilizado
+102030301,( - ) Edificações E Benfeitorias Em Imóveis Próprios,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,( - ) Edificações E Benfeitorias Em Imóveis Próprios
+102030302,( - ) Edificações E Benfeitorias Em Imóveis De Terceiros,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,( - ) Edificações E Benfeitorias Em Imóveis De Terceiros
+102030303,( - ) Instalações,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,( - ) Instalações
+102030304,( - ) Máquinas E Equipamentos,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,( - ) Máquinas E Equipamentos
+102030305,( - ) Computadores E Periféricos,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,( - ) Computadores E Periféricos
+102030306,( - ) Veículos,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,( - ) Veículos
+102030307,"( - ) Móveis, Utensílios E Instalações Comerciais",,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,"( - ) Móveis, Utensílios E Instalações Comerciais"
+102030308,( - ) Telefones,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,( - ) Telefones
+102030399,( - ) Outros,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Normais,( - ) Outros
+1020304,( - ) Depreciações Não Planejadas,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Não Planejadas,( - ) Outros
+102030401,( - ) Edificações E Benfeitorias Em Imóveis Próprios,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Não Planejadas,( - ) Edificações E Benfeitorias Em Imóveis Próprios
+102030402,( - ) Edificações E Benfeitorias Em Imóveis De Terceiros,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Não Planejadas,( - ) Edificações E Benfeitorias Em Imóveis De Terceiros
+102030403,( - ) Instalações,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Não Planejadas,( - ) Instalações
+102030404,( - ) Máquinas,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Não Planejadas,( - ) Máquinas
+102030405,( - ) Equipamentos,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Não Planejadas,( - ) Equipamentos
+102030406,( - ) Veículos,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Não Planejadas,( - ) Veículos
+102030407,"( - ) Móveis, Utensílios E Instalações Comerciais",,Não Circulante,Ativo Imobilizado,( - ) Depreciações Não Planejadas,"( - ) Móveis, Utensílios E Instalações Comerciais"
+102030499,( - ) Outros,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Não Planejadas,( - ) Outros
+1020305,( - ) Depreciações Especiais,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Especiais,( - ) Outros
+102030501,( - ) Edificações E Benfeitorias Em Imóveis Próprios,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Especiais,( - ) Edificações E Benfeitorias Em Imóveis Próprios
+102030502,( - ) Edificações E Benfeitorias Em Imóveis De Terceiros,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Especiais,( - ) Edificações E Benfeitorias Em Imóveis De Terceiros
+102030503,( - ) Instalações,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Especiais,( - ) Instalações
+102030504,( - ) Máquinas,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Especiais,( - ) Máquinas
+102030505,( - ) Equipamentos,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Especiais,( - ) Equipamentos
+102030506,( - ) Veículos,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Especiais,( - ) Veículos
+102030507,"( - ) Móveis, Utensílios E Instalações Comerciais",,Não Circulante,Ativo Imobilizado,( - ) Depreciações Especiais,"( - ) Móveis, Utensílios E Instalações Comerciais"
+102030599,( - ) Outros,,Não Circulante,Ativo Imobilizado,( - ) Depreciações Especiais,( - ) Outros
+1020306,Usina Cpc 06,,Não Circulante,Ativo Imobilizado,Usina Cpc 06,( - ) Outros
+102030601,Ativo De Direito De Uso - Arrendamentos Cpc 06,,Não Circulante,Ativo Imobilizado,Usina Cpc 06,Ativo De Direito De Uso - Arrendamentos Cpc 06
+102030602,(-) Amortização Direito De Uso - Arrendamentos Cpc 06,,Não Circulante,Ativo Imobilizado,Usina Cpc 06,(-) Amortização Direito De Uso - Arrendamentos Cpc 06
+10204,Intangível,,Não Circulante,Intangível,Usina Cpc 06,(-) Amortização Direito De Uso - Arrendamentos Cpc 06
+1020401,Intangível,,Não Circulante,Intangível,Intangível,(-) Amortização Direito De Uso - Arrendamentos Cpc 06
+102040101,Concessões,,Não Circulante,Intangível,Intangível,Concessões
+102040102,Marcas E Patentes,,Não Circulante,Intangível,Intangível,Marcas E Patentes
+102040103,Direitos Autorais,,Não Circulante,Intangível,Intangível,Direitos Autorais
+102040104,Fundo De Comércio,,Não Circulante,Intangível,Intangível,Fundo De Comércio
+102040105,Software Ou Programas De Computador,,Não Circulante,Intangível,Intangível,Software Ou Programas De Computador
+102040106,Franquias,,Não Circulante,Intangível,Intangível,Franquias
+102040107,Desenvolvimento De Produtos,,Não Circulante,Intangível,Intangível,Desenvolvimento De Produtos
+102040108,Software Em Desenvolvimento,,Não Circulante,Intangível,Intangível,Software Em Desenvolvimento
+102040109,Créditos De Carbono,,Não Circulante,Intangível,Intangível,Créditos De Carbono
+102040199,Outras,,Não Circulante,Intangível,Intangível,Outras
+1020402,( - ) Amortização Do Intangível,,Não Circulante,Intangível,( - ) Amortização Do Intangível,Outras
+102040201,( - ) Software,,Não Circulante,Intangível,( - ) Amortização Do Intangível,( - ) Software
+10205,Diferido,,Não Circulante,Diferido,( - ) Amortização Do Intangível,( - ) Software
+1020501,Diferido,,Não Circulante,Diferido,Diferido,( - ) Software
+102050101,Despesas Pré-Operacionais Ou Pré-Industriais,,Não Circulante,Diferido,Diferido,Despesas Pré-Operacionais Ou Pré-Industriais
+102050102,Despesas Com Pesquisas Científicas Ou Tecnológicas,,Não Circulante,Diferido,Diferido,Despesas Com Pesquisas Científicas Ou Tecnológicas
+102050103,Demais Aplicações Em Despesas Amortizáveis,,Não Circulante,Diferido,Diferido,Demais Aplicações Em Despesas Amortizáveis
+1020502,( - ) Amortização Do Diferido,,Não Circulante,Diferido,( - ) Amortização Do Diferido,Demais Aplicações Em Despesas Amortizáveis
+102050201,( - ) Amortização Do Diferido,,Não Circulante,Diferido,( - ) Amortização Do Diferido,( - ) Amortização Do Diferido
+10206,Contas De Compensações Ativas,,Não Circulante,Contas De Compensações Ativas,( - ) Amortização Do Diferido,( - ) Amortização Do Diferido
+1020601,Contas De Compensações Ativas,,Não Circulante,Contas De Compensações Ativas,Contas De Compensações Ativas,( - ) Amortização Do Diferido
+102060101,Bens Recebidos Em Comodato,,Não Circulante,Contas De Compensações Ativas,Contas De Compensações Ativas,Bens Recebidos Em Comodato
+100000000000000,Ativo,Ativo,Não Circulante,Contas De Compensações Ativas,Contas De Compensações Ativas,Bens Recebidos Em Comodato
+201,Circulante,Ativo,Circulante,Contas De Compensações Ativas,Contas De Compensações Ativas,Bens Recebidos Em Comodato
+20102,Contas De Compensações Passivas,Ativo,Circulante,Contas De Compensações Passivas,Creditos De Pessoa Ligadas,Prospera
+2010201,Contas De Compensações Passivas,Ativo,Circulante,Contas De Compensações Passivas,Contas De Compensações Passivas,Prospera
+201020101,Bens Recebidos Em Comodato A Devolver,Ativo,Circulante,Contas De Compensações Passivas,Contas De Compensações Passivas,Bens Recebidos Em Comodato A Devolver
+202,Não-Circulante,Ativo,Não-Circulante,Contas De Compensações Passivas,Contas De Compensações Passivas,Bens Recebidos Em Comodato A Devolver
+20201,Obrigações A Longo Prazo,Ativo,Não-Circulante,Obrigações A Longo Prazo,Contas De Compensações Passivas,Bens Recebidos Em Comodato A Devolver
+2020101,Fornecedores A Longo Prazo,Ativo,Não-Circulante,Obrigações A Longo Prazo,Fornecedores A Longo Prazo,Bens Recebidos Em Comodato A Devolver
+202010101,Fornecedores A Longo Prazo,Ativo,Não-Circulante,Obrigações A Longo Prazo,Fornecedores A Longo Prazo,Fornecedores A Longo Prazo
+2020102,Financiamentos A Longo Prazo,Ativo,Não-Circulante,Obrigações A Longo Prazo,Financiamentos A Longo Prazo,Fornecedores A Longo Prazo
+202010201,Financiamentos A Longo Prazo - Sistema Financeiro Nacional,Ativo,Não-Circulante,Obrigações A Longo Prazo,Financiamentos A Longo Prazo,Financiamentos A Longo Prazo - Sistema Financeiro Nacional
+202010202,Financiamentos A Longo Prazo - Exterior,Ativo,Não-Circulante,Obrigações A Longo Prazo,Financiamentos A Longo Prazo,Financiamentos A Longo Prazo - Exterior
+202010203,Financiamentos A Longo Prazo - Outros,Ativo,Não-Circulante,Obrigações A Longo Prazo,Financiamentos A Longo Prazo,Financiamentos A Longo Prazo - Outros
+202010204,Arrendamento Mercantil (Financeiro) A Longo Prazo - Sistema Financeiro Nacional,Ativo,Não-Circulante,Obrigações A Longo Prazo,Financiamentos A Longo Prazo,Arrendamento Mercantil (Financeiro) A Longo Prazo - Sistema Financeiro Nacional
+202010205,Arrendamento Mercantil (Financeiro) A Longo Prazo - Exterior,Ativo,Não-Circulante,Obrigações A Longo Prazo,Financiamentos A Longo Prazo,Arrendamento Mercantil (Financeiro) A Longo Prazo - Exterior
+2020103,Leasing A Longo Prazo,Ativo,Não-Circulante,Obrigações A Longo Prazo,Leasing A Longo Prazo,Arrendamento Mercantil (Financeiro) A Longo Prazo - Exterior
+202010301,Leasing A Longo Prazo,Ativo,Não-Circulante,Obrigações A Longo Prazo,Leasing A Longo Prazo,Leasing A Longo Prazo
+2020104,Impostos Longo Prazo,Ativo,Não-Circulante,Obrigações A Longo Prazo,Impostos Longo Prazo,Leasing A Longo Prazo
+202010401,Impostos - Parcelamento,Ativo,Não-Circulante,Obrigações A Longo Prazo,Impostos Longo Prazo,Impostos - Parcelamento
+2020105,Débitos Fiscais,Ativo,Não-Circulante,Obrigações A Longo Prazo,Débitos Fiscais,Impostos - Parcelamento
+202010501,Débitos Fiscais Csll - Diferenças Temporárias,Ativo,Não-Circulante,Obrigações A Longo Prazo,Débitos Fiscais,Débitos Fiscais Csll - Diferenças Temporárias
+202010502,Débitos Fiscais Irpj - Diferenças Temporárias,Ativo,Não-Circulante,Obrigações A Longo Prazo,Débitos Fiscais,Débitos Fiscais Irpj - Diferenças Temporárias
+2020106,Creditos De Pessoa Ligadas,Ativo,Não-Circulante,Obrigações A Longo Prazo,Creditos De Pessoa Ligadas,Débitos Fiscais Irpj - Diferenças Temporárias
+202010601,Investimento Para Conversão Futura Em Participação Societária,Ativo,Não-Circulante,Obrigações A Longo Prazo,Creditos De Pessoa Ligadas,Investimento Para Conversão Futura Em Participação Societária
+2020107,Arrendamento Mercantil Lp,Ativo,Não-Circulante,Obrigações A Longo Prazo,Arrendamento Mercantil Lp,Investimento Para Conversão Futura Em Participação Societária
+202010701,Arrendamentos Cpc 06 A Pagar Lp,Ativo,Não-Circulante,Obrigações A Longo Prazo,Arrendamento Mercantil Lp,Arrendamentos Cpc 06 A Pagar Lp
+202010702,Juros Sobre Arrendamentos Cpc A Pagar Lp,Ativo,Não-Circulante,Obrigações A Longo Prazo,Arrendamento Mercantil Lp,Juros Sobre Arrendamentos Cpc A Pagar Lp
+2020108,Provisoes A Pagar Lp,Ativo,Não-Circulante,Obrigações A Longo Prazo,Provisoes A Pagar Lp,Juros Sobre Arrendamentos Cpc A Pagar Lp
+202010801,Contrato De Preferencia - Usina,Ativo,Não-Circulante,Obrigações A Longo Prazo,Provisoes A Pagar Lp,Contrato De Preferencia - Usina
+2020109,"Controladora, Controladas E Coligadas",Ativo,Não-Circulante,Obrigações A Longo Prazo,"Controladora, Controladas E Coligadas",Contrato De Preferencia - Usina
+202010901,Sunon Solar Energia,Ativo,Não-Circulante,Obrigações A Longo Prazo,"Controladora, Controladas E Coligadas",Sunon Solar Energia
+202010902,Sunon Retail,Ativo,Não-Circulante,Obrigações A Longo Prazo,"Controladora, Controladas E Coligadas",Sunon Retail
+20202,Receitas Diferidas,Ativo,Não-Circulante,Receitas Diferidas,"Controladora, Controladas E Coligadas",Sunon Retail
+2020201,Receitas Diferidas,Ativo,Não-Circulante,Receitas Diferidas,Receitas Diferidas,Sunon Retail
+202020101,Receitas Diferidas,Ativo,Não-Circulante,Receitas Diferidas,Receitas Diferidas,Receitas Diferidas
+2020202,( - ) Custos Correspondentes Às Receitas Diferidas,Ativo,Não-Circulante,Receitas Diferidas,( - ) Custos Correspondentes Às Receitas Diferidas,Receitas Diferidas
+202020201,( - ) Custos Correspondentes Às Receitas Diferidas,Ativo,Não-Circulante,Receitas Diferidas,( - ) Custos Correspondentes Às Receitas Diferidas,( - ) Custos Correspondentes Às Receitas Diferidas
+203,Patrimônio Líquido,Ativo,Patrimônio Líquido,Receitas Diferidas,( - ) Custos Correspondentes Às Receitas Diferidas,( - ) Custos Correspondentes Às Receitas Diferidas
+20301,Capital Realizado,Ativo,Patrimônio Líquido,Capital Realizado,( - ) Custos Correspondentes Às Receitas Diferidas,( - ) Custos Correspondentes Às Receitas Diferidas
+2030101,Capital Subscrito,Ativo,Patrimônio Líquido,Capital Realizado,Capital Subscrito,( - ) Custos Correspondentes Às Receitas Diferidas
+203010101,Capital Subscrito De Domiciliados E Residentes No País,Ativo,Patrimônio Líquido,Capital Realizado,Capital Subscrito,Capital Subscrito De Domiciliados E Residentes No País
+203010102,Capital Subscrito De Domiciliados E Residentes No Exterior,Ativo,Patrimônio Líquido,Capital Realizado,Capital Subscrito,Capital Subscrito De Domiciliados E Residentes No Exterior
+2030102,( - ) Capital A Integralizar,Ativo,Patrimônio Líquido,Capital Realizado,( - ) Capital A Integralizar,Capital Subscrito De Domiciliados E Residentes No Exterior
+203010201,( - ) Capital A Integralizar De Domiciliados E Residentes No País,Ativo,Patrimônio Líquido,Capital Realizado,( - ) Capital A Integralizar,( - ) Capital A Integralizar De Domiciliados E Residentes No País
+203010202,( - ) Capital A Integralizar De Domiciliados E Residentes No Exterior,Ativo,Patrimônio Líquido,Capital Realizado,( - ) Capital A Integralizar,( - ) Capital A Integralizar De Domiciliados E Residentes No Exterior
+20302,Reservas,Ativo,Patrimônio Líquido,Reservas,( - ) Capital A Integralizar,( - ) Capital A Integralizar De Domiciliados E Residentes No Exterior
+2030201,Reservas De Capital,Ativo,Patrimônio Líquido,Reservas,Reservas De Capital,( - ) Capital A Integralizar De Domiciliados E Residentes No Exterior
+203020101,Reservas De Reavaliação,Ativo,Patrimônio Líquido,Reservas,Reservas De Capital,Reservas De Reavaliação
+203020102,Reservas De Lucros,Ativo,Patrimônio Líquido,Reservas,Reservas De Capital,Reservas De Lucros
+203020103,Reservas De Lucros - Doações E Subvenções Para Investimentos,Ativo,Patrimônio Líquido,Reservas,Reservas De Capital,Reservas De Lucros - Doações E Subvenções Para Investimentos
+203020104,Reservas De Lucros - Prêmio Na Emissão De Debêntures,Ativo,Patrimônio Líquido,Reservas,Reservas De Capital,Reservas De Lucros - Prêmio Na Emissão De Debêntures
+203020105,Reserva Para Aumento De Capital,Ativo,Patrimônio Líquido,Reservas,Reservas De Capital,Reserva Para Aumento De Capital
+203020106,Outras Reservas,Ativo,Patrimônio Líquido,Reservas,Reservas De Capital,Outras Reservas
+20303,Ajustes De Avaliação Patrimonial,Ativo,Patrimônio Líquido,Ajustes De Avaliação Patrimonial,Reservas De Capital,Outras Reservas
+2030301,Ajustes De Avaliação Patrimonial,Ativo,Patrimônio Líquido,Ajustes De Avaliação Patrimonial,Ajustes De Avaliação Patrimonial,Outras Reservas
+203030101,Ajustes Às Normas Internacionais De Contabilidade,Ativo,Patrimônio Líquido,Ajustes De Avaliação Patrimonial,Ajustes De Avaliação Patrimonial,Ajustes Às Normas Internacionais De Contabilidade
+203030102,( - ) Ajustes Às Normas Internacionais De Contabilidade,Ativo,Patrimônio Líquido,Ajustes De Avaliação Patrimonial,Ajustes De Avaliação Patrimonial,( - ) Ajustes Às Normas Internacionais De Contabilidade
+20304,Outras Contas,Ativo,Patrimônio Líquido,Outras Contas,Ajustes De Avaliação Patrimonial,( - ) Ajustes Às Normas Internacionais De Contabilidade
+2030401,Outras Contas,Ativo,Patrimônio Líquido,Outras Contas,Outras Contas,( - ) Ajustes Às Normas Internacionais De Contabilidade
+203040101,Lucros Acumulados E/Ou Saldo À Disposição Da Assembléia,Ativo,Patrimônio Líquido,Outras Contas,Outras Contas,Lucros Acumulados E/Ou Saldo À Disposição Da Assembléia
+203040102,( - ) Prejuízos Acumulados,Ativo,Patrimônio Líquido,Outras Contas,Outras Contas,( - ) Prejuízos Acumulados
+203040103,( - ) Ações Em Tesouraria,Ativo,Patrimônio Líquido,Outras Contas,Outras Contas,( - ) Ações Em Tesouraria
+203040104,Afac,Ativo,Patrimônio Líquido,Outras Contas,Outras Contas,Afac
+203040105,Resultado Do Exercício,Ativo,Patrimônio Líquido,Outras Contas,Outras Contas,Resultado Do Exercício
+203040106,Outros Créditos,Ativo,Patrimônio Líquido,Outras Contas,Outras Contas,Outros Créditos
+203040107,( - ) Cotas Em Tesouraria,Ativo,Patrimônio Líquido,Outras Contas,Outras Contas,( - ) Cotas Em Tesouraria
+204,Patrimônio Social,Ativo,Patrimônio Social,Outras Contas,Outras Contas,( - ) Cotas Em Tesouraria
+20401,Fundo Patrimonial,Ativo,Patrimônio Social,Fundo Patrimonial,Outras Contas,( - ) Cotas Em Tesouraria
+2040101,Fundo Patrimonial,Ativo,Patrimônio Social,Fundo Patrimonial,Fundo Patrimonial,( - ) Cotas Em Tesouraria
+204010101,Fundo Patrimonial,Ativo,Patrimônio Social,Fundo Patrimonial,Fundo Patrimonial,Fundo Patrimonial
+20402,Reservas,Ativo,Patrimônio Social,Reservas,Fundo Patrimonial,Fundo Patrimonial
+2040201,Reservas,Ativo,Patrimônio Social,Reservas,Reservas,Fundo Patrimonial
+204020101,Reservas Patrimoniais,Ativo,Patrimônio Social,Reservas,Reservas,Reservas Patrimoniais
+204020102,Reservas Estatutárias,Ativo,Patrimônio Social,Reservas,Reservas,Reservas Estatutárias
+20403,Outras Contas,Ativo,Patrimônio Social,Outras Contas,Reservas,Reservas Estatutárias
+2040301,Outras Contas,Ativo,Patrimônio Social,Outras Contas,Outras Contas,Reservas Estatutárias
+204030101,Superávits Acumulados,Ativo,Patrimônio Social,Outras Contas,Outras Contas,Superávits Acumulados
+204030102,Déficits Acumulados,Ativo,Patrimônio Social,Outras Contas,Outras Contas,Déficits Acumulados
+20101,Obrigações De Curto Prazo,Ativo,Circulante,Obrigações De Curto Prazo,Contas De Compensações Ativas,Bens Recebidos Em Comodato
+2010101,Fornecedores,Ativo,Circulante,Obrigações De Curto Prazo,Fornecedores,Bens Recebidos Em Comodato
+201010101,Fornecedores Nacionais,Ativo,Circulante,Obrigações De Curto Prazo,Fornecedores,Fornecedores Nacionais
+201010102,Fornecedores Estrangeiros,Ativo,Circulante,Obrigações De Curto Prazo,Fornecedores,Fornecedores Estrangeiros
+2010102,Adiantamentos De Clientes,Ativo,Circulante,Obrigações De Curto Prazo,Adiantamentos De Clientes,Fornecedores Estrangeiros
+201010201,Adiantamentos De Clientes,Ativo,Circulante,Obrigações De Curto Prazo,Adiantamentos De Clientes,Adiantamentos De Clientes
+201010202,Adiantamentos Vale Energia,Ativo,Circulante,Obrigações De Curto Prazo,Adiantamentos De Clientes,Adiantamentos Vale Energia
+2010103,Emprestimo Financiamentos A Curto Prazo,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Adiantamentos Vale Energia
+201010301,Financiamentos A Curto Prazo - Sistema Financeiro Nacional,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Financiamentos A Curto Prazo - Sistema Financeiro Nacional
+201010302,Financiamentos A Curto Prazo - Exterior,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Financiamentos A Curto Prazo - Exterior
+201010303,Financiamentos A Curto Prazo - Outros,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Financiamentos A Curto Prazo - Outros
+201010304,Arrendamento Mercantil (Financeiro) A Curto Prazo - Sistema Financeiro Nacional,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Arrendamento Mercantil (Financeiro) A Curto Prazo - Sistema Financeiro Nacional
+201010305,Arrendamento Mercantil (Financeiro) A Curto Prazo - Exterior,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Arrendamento Mercantil (Financeiro) A Curto Prazo - Exterior
+201010306,Empréstimos A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Empréstimos A Pagar
+201010307,Juros Sobre Empréstimos,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Juros Sobre Empréstimos
+201010308,Comissão Sobre Emprestimos,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Comissão Sobre Emprestimos
+201010309,Irrf Sobre Juros De Empréstimos,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Irrf Sobre Juros De Empréstimos
+201010310,Juros Sobre Empréstimo - Fin,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Juros Sobre Empréstimo - Fin
+201010312,Derivativos De Hedge/Operações De Swap,Ativo,Circulante,Obrigações De Curto Prazo,Emprestimo Financiamentos A Curto Prazo,Derivativos De Hedge/Operações De Swap
+2010104,Arrendamento Mercantil Cp,Ativo,Circulante,Obrigações De Curto Prazo,Arrendamento Mercantil Cp,Derivativos De Hedge/Operações De Swap
+201010401,Arrendamentos Cpc 06 A Pagar Cp,Ativo,Circulante,Obrigações De Curto Prazo,Arrendamento Mercantil Cp,Arrendamentos Cpc 06 A Pagar Cp
+201010402,Juros Sobre Arrendamentos Cpc A Pagar Cp,Ativo,Circulante,Obrigações De Curto Prazo,Arrendamento Mercantil Cp,Juros Sobre Arrendamentos Cpc A Pagar Cp
+2010105,"Impostos, Taxas E Contribuições A Recolher",Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Juros Sobre Arrendamentos Cpc A Pagar Cp
+201010501,Icms E Contribuições A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Icms E Contribuições A Recolher
+201010502,Ipi A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Ipi A Recolher
+201010503,Pis A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Pis A Recolher
+201010504,Cofins A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Cofins A Recolher
+201010505,Csll A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Csll A Recolher
+201010506,Irpj A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Irpj A Recolher
+201010507,Iss A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Iss A Recolher
+201010508,Taxas Municipais,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Taxas Municipais
+201010509,Contribuições Federais Retidas,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Contribuições Federais Retidas
+201010551,Icms E Contribuições A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Icms E Contribuições A Pagar
+201010552,Ipi A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Ipi A Pagar
+201010553,Pis A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Pis A Pagar
+201010554,Cofins A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Cofins A Pagar
+201010555,Csll A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Csll A Pagar
+201010556,Irpj A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Irpj A Pagar
+201010557,Iss A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Iss A Pagar
+201010558,Taxas Municipais A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Taxas Municipais A Pagar
+201010559,Contribuições A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Contribuições A Pagar
+201010560,Outros Impostos E Contribuições A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Outros Impostos E Contribuições A Pagar
+201010598,Provisão De Imposto A Recolher Sobre Receita,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Provisão De Imposto A Recolher Sobre Receita
+201010599,Outros Impostos E Contribuições A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,"Impostos, Taxas E Contribuições A Recolher",Outros Impostos E Contribuições A Recolher
+2010106,Impostos Retidos A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Outros Impostos E Contribuições A Recolher
+201010601,Contribuição Assistencial - Empregados,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Contribuição Assistencial - Empregados
+201010602,Contribuição Sindical - Empregados,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Contribuição Sindical - Empregados
+201010603,Contribuições Federais Retidas,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Contribuições Federais Retidas
+201010604,Inss Retido,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Inss Retido
+201010605,Irrf Sobre Aluguel,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Irrf Sobre Aluguel
+201010606,Irrf Sobre Folha De Pagamento,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Irrf Sobre Folha De Pagamento
+201010607,Irrf Sobre Nota Fiscal,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Irrf Sobre Nota Fiscal
+201010608,Iss Retido,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Iss Retido
+201010651,Contribuição Assistencial A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Contribuição Assistencial A Pagar
+201010652,Contribuição Sindical A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Contribuição Sindical A Pagar
+201010653,Contribuições Federais Retidas A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Contribuições Federais Retidas A Pagar
+201010654,Inss Retido A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Inss Retido A Pagar
+201010655,Irrf Sobre Aluguel A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Irrf Sobre Aluguel A Pagar
+201010656,Irrf Sobre Folha De Pagamento A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Irrf Sobre Folha De Pagamento A Pagar
+201010657,Irrf Sobre Nota Fiscal A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Irrf Sobre Nota Fiscal A Pagar
+201010658,Iss Retido A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Iss Retido A Pagar
+201010659,Transitória Impostos Retidos,Ativo,Circulante,Obrigações De Curto Prazo,Impostos Retidos A Recolher,Transitória Impostos Retidos
+2010107,Encargos Sociais A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,Encargos Sociais A Recolher,Transitória Impostos Retidos
+201010701,Fgts A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,Encargos Sociais A Recolher,Fgts A Recolher
+201010702,Contribuições Previdenciárias A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,Encargos Sociais A Recolher,Contribuições Previdenciárias A Recolher
+201010703,Contribuição Sindical A Recolher,Ativo,Circulante,Obrigações De Curto Prazo,Encargos Sociais A Recolher,Contribuição Sindical A Recolher
+201010751,Fgts A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Encargos Sociais A Recolher,Fgts A Pagar
+201010752,Contribuições Previdenciárias A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Encargos Sociais A Recolher,Contribuições Previdenciárias A Pagar
+201010753,Contribuição Sindical A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Encargos Sociais A Recolher,Contribuição Sindical A Pagar
+2010108,Ordenados E Obrigações Trabalhistas,Ativo,Circulante,Obrigações De Curto Prazo,Ordenados E Obrigações Trabalhistas,Contribuição Sindical A Pagar
+201010801,Salários A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Ordenados E Obrigações Trabalhistas,Salários A Pagar
+201010802,Pró-Labore A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Ordenados E Obrigações Trabalhistas,Pró-Labore A Pagar
+201010803,Férias A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Ordenados E Obrigações Trabalhistas,Férias A Pagar
+201010804,13º Salário A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Ordenados E Obrigações Trabalhistas,13º Salário A Pagar
+201010851,Transitória - Salários A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Ordenados E Obrigações Trabalhistas,Transitória - Salários A Pagar
+2010109,Provisões De Natureza Trabalhista,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Trabalhista,Transitória - Salários A Pagar
+201010901,Provisão De 13º Salário,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Trabalhista,Provisão De 13º Salário
+201010902,Provisão De Férias,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Trabalhista,Provisão De Férias
+201010903,Provisão De Fgts S/13º Salário,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Trabalhista,Provisão De Fgts S/13º Salário
+201010904,Provisão De Fgts S/Férias,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Trabalhista,Provisão De Fgts S/Férias
+201010905,Provisão De Inss S/13º Salário,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Trabalhista,Provisão De Inss S/13º Salário
+201010906,Provisão De Inss S/Férias,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Trabalhista,Provisão De Inss S/Férias
+2010110,Provisões De Natureza Fiscal,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Fiscal,Provisão De Inss S/Férias
+201011001,Provisão Para A Contribuição Social Sobre O Lucro Líquido,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Fiscal,Provisão Para A Contribuição Social Sobre O Lucro Líquido
+201011002,Provisão Para O Imposto De Renda,Ativo,Circulante,Obrigações De Curto Prazo,Provisões De Natureza Fiscal,Provisão Para O Imposto De Renda
+2010111,Outras Contas A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Provisão Para O Imposto De Renda
+201011101,Água E Esgoto A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Água E Esgoto A Pagar
+201011102,Aluguéis A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Aluguéis A Pagar
+201011103,Assinaturas De Periódicos A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Assinaturas De Periódicos A Pagar
+201011104,Doações A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Doações A Pagar
+201011105,Energia Elétrica A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Energia Elétrica A Pagar
+201011106,Pensão Alimenticia A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Pensão Alimenticia A Pagar
+201011107,Seguros A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Seguros A Pagar
+201011108,Telefone A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Telefone A Pagar
+201011109,Repasse A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Repasse A Pagar
+201011110,Cartão De Credito A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Cartão De Credito A Pagar
+201011111,Software A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Software A Pagar
+201011112,Provisão De Despesas,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Provisão De Despesas
+201011113,Provisão De Contas A Pagar,Ativo,Circulante,Obrigações De Curto Prazo,Outras Contas A Pagar,Provisão De Contas A Pagar
+2010112,Creditos De Pessoa Ligadas,Ativo,Circulante,Obrigações De Curto Prazo,Creditos De Pessoa Ligadas,Provisão De Contas A Pagar
+201011201,Outros Créditos,Ativo,Circulante,Obrigações De Curto Prazo,Creditos De Pessoa Ligadas,Outros Créditos
+201011202,Investimento Para Conversão Futura Em Participação Societária,Ativo,Circulante,Obrigações De Curto Prazo,Creditos De Pessoa Ligadas,Investimento Para Conversão Futura Em Participação Societária
+201011203,Mutuo - Sunon Brasil P Ltda,Ativo,Circulante,Obrigações De Curto Prazo,Creditos De Pessoa Ligadas,Mutuo - Sunon Brasil P Ltda
+201011204,Prospera,Ativo,Circulante,Obrigações De Curto Prazo,Creditos De Pessoa Ligadas,Prospera
+200000000000000,Passivo,Passivo,Patrimônio Social,Outras Contas,Outras Contas,Déficits Acumulados
+301,Receitas Operacionais,Passivo,Receitas Operacionais,Outras Contas,Outras Contas,Déficits Acumulados
+30101,Receita Líquida,Passivo,Receitas Operacionais,Receita Líquida,Outras Contas,Déficits Acumulados
+3010101,Receita Bruta,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Déficits Acumulados
+301010102,Vendas De Mercadorias Para Mercado Interno,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Vendas De Mercadorias Para Mercado Interno
+301010105,Vendas De Serviços Prestados - Intermediação Energia,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Vendas De Serviços Prestados - Intermediação Energia
+301010106,Vendas De Serviços Prestados - Intermediação Adquirência,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Vendas De Serviços Prestados - Intermediação Adquirência
+301010109,Vendas De Serviços Prestados - Serviços Financeiros,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Vendas De Serviços Prestados - Serviços Financeiros
+301010110,Vendas De Serviços Prestados - Consultoria,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Vendas De Serviços Prestados - Consultoria
+301010111,Selo Verde,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Selo Verde
+301010112,Receita Com Assinatura Verde,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Receita Com Assinatura Verde
+301010113,Receita Com Crédito De Carbono,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Receita Com Crédito De Carbono
+301010199,Outras,Passivo,Receitas Operacionais,Receita Líquida,Receita Bruta,Outras
+3010102,( - ) Deduções Da Receita Bruta,Passivo,Receitas Operacionais,Receita Líquida,( - ) Deduções Da Receita Bruta,Outras
+301010201,"( - ) Vendas Canceladas, Devoluções E Descontos Incondicionais",Passivo,Receitas Operacionais,Receita Líquida,( - ) Deduções Da Receita Bruta,"( - ) Vendas Canceladas, Devoluções E Descontos Incondicionais"
+301010202,( - ) Icms,Passivo,Receitas Operacionais,Receita Líquida,( - ) Deduções Da Receita Bruta,( - ) Icms
+301010203,( - ) Ipi,Passivo,Receitas Operacionais,Receita Líquida,( - ) Deduções Da Receita Bruta,( - ) Ipi
+301010204,( - ) Pis/Pasep,Passivo,Receitas Operacionais,Receita Líquida,( - ) Deduções Da Receita Bruta,( - ) Pis/Pasep
+301010205,( - ) Cofins,Passivo,Receitas Operacionais,Receita Líquida,( - ) Deduções Da Receita Bruta,( - ) Cofins
+301010206,( - ) Iss,Passivo,Receitas Operacionais,Receita Líquida,( - ) Deduções Da Receita Bruta,( - ) Iss
+301010299,( - ) Demais Impostos E Contribuições Incidentes Sobre Vendas De Mercadorias E Produtos,Passivo,Receitas Operacionais,Receita Líquida,( - ) Deduções Da Receita Bruta,( - ) Demais Impostos E Contribuições Incidentes Sobre Vendas De Mercadorias E Produtos
+30102,Outras Receitas Operacionais,Passivo,Receitas Operacionais,Outras Receitas Operacionais,( - ) Deduções Da Receita Bruta,( - ) Demais Impostos E Contribuições Incidentes Sobre Vendas De Mercadorias E Produtos
+3010201,Outras Receitas Operacionais,Passivo,Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais,( - ) Demais Impostos E Contribuições Incidentes Sobre Vendas De Mercadorias E Produtos
+301020101,Variações Cambiais Ativas,Passivo,Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais,Variações Cambiais Ativas
+301020102,Receitas De Juros Sobre O Capital Próprio,Passivo,Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais,Receitas De Juros Sobre O Capital Próprio
+301020103,Ganhos Na Alienação De Participações Não Integrantes Do Ativo Permanente,Passivo,Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais,Ganhos Na Alienação De Participações Não Integrantes Do Ativo Permanente
+301020104,Resultados Positivos Em Participações Societárias,Passivo,Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais,Resultados Positivos Em Participações Societárias
+301020105,Amortização De Deságio Nas Aquisições De Investimentos Avaliados Pelo Patrimônio Líquido,Passivo,Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais,Amortização De Deságio Nas Aquisições De Investimentos Avaliados Pelo Patrimônio Líquido
+301020106,Reversão Dos Saldos Das Provisões Operacionais,Passivo,Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais,Reversão Dos Saldos Das Provisões Operacionais
+301020199,Outras Receitas Operacionais,Passivo,Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais
+302,Outras Receitas,Passivo,Outras Receitas,Outras Receitas Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais
+30201,Receitas Não Operacionais,Passivo,Outras Receitas,Receitas Não Operacionais,Outras Receitas Operacionais,Outras Receitas Operacionais
+3020101,Receitas Não Operacionais,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Outras Receitas Operacionais
+302010101,Receitas De Alienações De Bens E Direitos Do Ativo Imobilizado,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Receitas De Alienações De Bens E Direitos Do Ativo Imobilizado
+302010102,Ganhos De Capital Com Ativo Imobilizado,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Ganhos De Capital Com Ativo Imobilizado
+302010103,Ganhos De Capital Por Variação Percentual Em Participação Societária Avaliada Pelo Patrimônio Líq.,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Ganhos De Capital Por Variação Percentual Em Participação Societária Avaliada Pelo Patrimônio Líq.
+302010104,Ganhos Com Alienação De Bens,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Ganhos Com Alienação De Bens
+302010105,Indenização De Seguros,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Indenização De Seguros
+302010106,Recuperação De Despesas,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Recuperação De Despesas
+302010107,Descontos Obtidos,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Descontos Obtidos
+302010108,Juros Recebidos,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Juros Recebidos
+302010109,Rendimentos De Aplicações Financeiras,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Rendimentos De Aplicações Financeiras
+302010110,Outras Receitas Financeiras,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Outras Receitas Financeiras
+302010111,(-)Pis S/ Receita Financeira,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,(-)Pis S/ Receita Financeira
+302010112,(-)Cofins S/ Receita Financeira,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,(-)Cofins S/ Receita Financeira
+302010113,Variação Monetária,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Variação Monetária
+302010114,Equivalência Patrimonial,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Equivalência Patrimonial
+302010115,Ganhos Com Derivativos De Hedge,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Ganhos Com Derivativos De Hedge
+302010199,Outras Receitas Não Operacionais,Passivo,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Outras Receitas Não Operacionais
+300000000000000,Receita,Receita,Outras Receitas,Receitas Não Operacionais,Receitas Não Operacionais,Outras Receitas Não Operacionais
+401,Despesas Operacionais,Receita,Despesas Operacionais,Receitas Não Operacionais,Receitas Não Operacionais,Outras Receitas Não Operacionais
+40102,Outras Despesas Operacionais,Receita,Despesas Operacionais,Outras Despesas Operacionais,Locação De Equipamentos De Geração De Energia Elétrica(Usina),Direito De Preferência
+4010201,Outras Despesas Operacionais,Receita,Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Direito De Preferência
+401020101,Variações Cambiais Passivas,Receita,Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Variações Cambiais Passivas
+401020102,Juros Sobre O Capital Próprio,Receita,Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Juros Sobre O Capital Próprio
+401020103,Prejuízos Na Alienação De Participações Não Integrantes Do Ativo Permanente,Receita,Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Prejuízos Na Alienação De Participações Não Integrantes Do Ativo Permanente
+401020104,Resultados Negativos Em Participações Societárias,Receita,Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Resultados Negativos Em Participações Societárias
+401020105,Amortização De Ágio Nas Aquisições De Investimentos Avaliados Pelo Patrimônio Líquido,Receita,Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Amortização De Ágio Nas Aquisições De Investimentos Avaliados Pelo Patrimônio Líquido
+401020106,Arredondamento Por Diferenças De Moeda,Receita,Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Arredondamento Por Diferenças De Moeda
+401020107,Despesa Com Custo De Ociosidade,Receita,Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Despesa Com Custo De Ociosidade
+401020199,Outras Despesas Operacionais,Receita,Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais
+402,Despesas Não Operacionais,Receita,Despesas Não Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais
+40201,Despesas Não Operacionais,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Outras Despesas Operacionais,Outras Despesas Operacionais
+4020101,Despesas Não Operacionais,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Outras Despesas Operacionais
+402010101,Despesas De Alienações De Bens E Direitos Do Ativo Imobilizado,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Despesas De Alienações De Bens E Direitos Do Ativo Imobilizado
+402010102,Perdas De Capital Com Ativo Imobilizado,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Perdas De Capital Com Ativo Imobilizado
+402010103,Perdas De Capital Por Variação Percentual Em Participação Societária Avaliada Pelo Patrimônio Líq.,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Perdas De Capital Por Variação Percentual Em Participação Societária Avaliada Pelo Patrimônio Líq.
+402010104,Multas,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Multas
+402010105,Descontos Concedidos,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Descontos Concedidos
+402010106,Despesas Bancárias Manutenção Conta,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Bancárias Manutenção Conta
+402010107,Despesas Com Duplicatas,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Com Duplicatas
+402010108,Despesas Com Cartão De Crédito,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Com Cartão De Crédito
+402010109,Juros De Mora,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Juros De Mora
+402010110,Juros Financiamentos/Empréstimos,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Juros Financiamentos/Empréstimos
+402010111,Juros Passivos,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Juros Passivos
+402010112,Juros Sobre Duplicatas Descontadas,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Juros Sobre Duplicatas Descontadas
+402010113,Juros Sobre Saldo Devedor,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Juros Sobre Saldo Devedor
+402010114,Outras Despesas Financeiras,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Outras Despesas Financeiras
+402010115,Despesas Indedutiveis,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Indedutiveis
+402010116,Despesa Com Incentivos,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Despesa Com Incentivos
+402010117,Despesas Com Juros - Arrendamento,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Com Juros - Arrendamento
+402010118,Despesa Com Remuneração Baseada Em Ações,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Despesa Com Remuneração Baseada Em Ações
+402010119,Perdas Com Derivativos De Swap,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Perdas Com Derivativos De Swap
+402010199,Outras Despesas Não Operacionais,Receita,Despesas Não Operacionais,Despesas Não Operacionais,Despesas Não Operacionais,Outras Despesas Não Operacionais
+403,Impostos E Contribuições Sociais Sobre O Lucro,Receita,Impostos E Contribuições Sociais Sobre O Lucro,Despesas Não Operacionais,Despesas Não Operacionais,Outras Despesas Não Operacionais
+40301,Impostos E Contribuições Sociais Sobre O Lucro,Receita,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Despesas Não Operacionais,Outras Despesas Não Operacionais
+4030101,Impostos E Contribuições Sociais Sobre O Lucro,Receita,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Outras Despesas Não Operacionais
+403010101,Irpj,Receita,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Irpj
+403010102,Csll,Receita,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Csll
+400000000000000,Despesa,Despesa,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Csll
+501,Custo Dos Bens E Serviços Produzidos,Despesa,Custo Dos Bens E Serviços Produzidos,Impostos E Contribuições Sociais Sobre O Lucro,Impostos E Contribuições Sociais Sobre O Lucro,Csll
+50101,Custo Dos Produtos Vendidos,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Impostos E Contribuições Sociais Sobre O Lucro,Csll
+5010101,Custo Dos Produtos Vendidos,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Csll
+501010101,Formação Profissional,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Formação Profissional
+501010102,Telefone,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Telefone
+501030202,"Ordenados, Salários Gratificações E Outras Remunerações A Empregados",Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,"Ordenados, Salários Gratificações E Outras Remunerações A Empregados"
+501030205,Plano De Previdência Privada De Empregados,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Plano De Previdência Privada De Empregados
+501030206,Serviços Prestados Por Cooperativa De Trabalho,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Serviços Prestados Por Cooperativa De Trabalho
+501030207,Locação De Mão-De-Obra,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Locação De Mão-De-Obra
+501030208,Prestação De Serviço Pessoa Jurídica,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Prestação De Serviço Pessoa Jurídica
+501030209,Férias,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Férias
+501030210,13º Salário,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,13º Salário
+501030218,Provisão Fgts Férias,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Provisão Fgts Férias
+501030401,"Assistência Médica, Odontológica E Farmacêutica A Empregados",Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,"Assistência Médica, Odontológica E Farmacêutica A Empregados"
+501030402,Alimentação Do Trabalhador,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Alimentação Do Trabalhador
+501030403,Equipamentos De Segurança,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Equipamentos De Segurança
+501030404,Formação Profissional,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Formação Profissional
+501030405,Uniformes E Vestuários,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Uniformes E Vestuários
+501030406,Vale Transporte,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Vale Transporte
+501030501,Materiais De Consumo,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Materiais De Consumo
+501030901,Aluguéis,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Aluguéis
+501030902,Despesas Com Veículos E De Conservação De Bens E Instalações,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Despesas Com Veículos E De Conservação De Bens E Instalações
+501030903,Água E Esgoto,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Água E Esgoto
+501030904,Energia Elétrica,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Energia Elétrica
+501030905,Internet,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Internet
+501030906,Telefone,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Telefone
+501030907,Despesa Com Segurança,Despesa,Custo Dos Bens E Serviços Produzidos,Custo Dos Produtos Vendidos,Custo Dos Produtos Vendidos,Despesa Com Segurança
+50104,( - ) Deduções,Despesa,Custo Dos Bens E Serviços Produzidos,( - ) Deduções,Custo Dos Produtos Vendidos,Despesa Com Segurança
+5010401,( - ) Deduções De Impostos Sobre Custo,Despesa,Custo Dos Bens E Serviços Produzidos,( - ) Deduções,( - ) Deduções De Impostos Sobre Custo,Despesa Com Segurança
+501040101,( - ) Icms,Despesa,Custo Dos Bens E Serviços Produzidos,( - ) Deduções,( - ) Deduções De Impostos Sobre Custo,( - ) Icms
+501040102,( - ) Ipi,Despesa,Custo Dos Bens E Serviços Produzidos,( - ) Deduções,( - ) Deduções De Impostos Sobre Custo,( - ) Ipi
+501040103,( - ) Pis/Pasep,Despesa,Custo Dos Bens E Serviços Produzidos,( - ) Deduções,( - ) Deduções De Impostos Sobre Custo,( - ) Pis/Pasep
+501040104,( - ) Cofins,Despesa,Custo Dos Bens E Serviços Produzidos,( - ) Deduções,( - ) Deduções De Impostos Sobre Custo,( - ) Cofins
+501040105,( - ) Iss,Despesa,Custo Dos Bens E Serviços Produzidos,( - ) Deduções,( - ) Deduções De Impostos Sobre Custo,( - ) Iss
+501040199,( - ) Demais Impostos E Contribuições Incidentes Sobre Compras De Mercadorias,Despesa,Custo Dos Bens E Serviços Produzidos,( - ) Deduções,( - ) Deduções De Impostos Sobre Custo,( - ) Demais Impostos E Contribuições Incidentes Sobre Compras De Mercadorias
+502,Apuração Do Custo De Mercadorias,Despesa,Apuração Do Custo De Mercadorias,( - ) Deduções,( - ) Deduções De Impostos Sobre Custo,( - ) Demais Impostos E Contribuições Incidentes Sobre Compras De Mercadorias
+50201,Custo Das Mercadorias Revendidas,Despesa,Apuração Do Custo De Mercadorias,Custo Das Mercadorias Revendidas,( - ) Deduções De Impostos Sobre Custo,( - ) Demais Impostos E Contribuições Incidentes Sobre Compras De Mercadorias
+5020101,Custo Das Mercadorias Revendidas,Despesa,Apuração Do Custo De Mercadorias,Custo Das Mercadorias Revendidas,Custo Das Mercadorias Revendidas,( - ) Demais Impostos E Contribuições Incidentes Sobre Compras De Mercadorias
+502010101,Custo Das Mercadorias Revendidas,Despesa,Apuração Do Custo De Mercadorias,Custo Das Mercadorias Revendidas,Custo Das Mercadorias Revendidas,Custo Das Mercadorias Revendidas
+503,Demais Custos,Despesa,Demais Custos,Custo Das Mercadorias Revendidas,Custo Das Mercadorias Revendidas,Custo Das Mercadorias Revendidas
+50301,Demais Custos Gerais,Despesa,Demais Custos,Demais Custos Gerais,Custo Das Mercadorias Revendidas,Custo Das Mercadorias Revendidas
+5030101,Demais Custos Gerais,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Custo Das Mercadorias Revendidas
+503010101,Variação Do Custo Médio,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Variação Do Custo Médio
+503010102,Variação Do Custo Standard,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Variação Do Custo Standard
+503010103,Ajuste De Inventário,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Ajuste De Inventário
+503010104,Reavaliação De Custo Do Estoque,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Reavaliação De Custo Do Estoque
+503010105,Amortização De Arrendamento,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Amortização De Arrendamento
+503010106,Cash Back,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Cash Back
+503010107,Aquisição De Carbono,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Aquisição De Carbono
+503010108,Custo Variável De Usina,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Custo Variável De Usina
+503010109,Custos Com Juros De Arrendamento,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Custos Com Juros De Arrendamento
+503010110,Custo De Operação E Manutenção Da Usina (O&M),Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Custo De Operação E Manutenção Da Usina (O&M)
+503010111,Custo Com Vale Energia,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Custo Com Vale Energia
+503010112,Bens De Pequeno Valor,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Bens De Pequeno Valor
+503010119,( - ) Pis/Pasep,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,( - ) Pis/Pasep
+503010120,( - ) Cofins,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,( - ) Cofins
+503010199,Outros Custos,Despesa,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Outros Custos
+500000000000000,Custo,Custo,Demais Custos,Demais Custos Gerais,Demais Custos Gerais,Outros Custos
+601,Unificação Matriz X Filiais,Custo,Unificação Matriz X Filiais,Demais Custos Gerais,Demais Custos Gerais,Outros Custos
+60101,Transferência De Impostos,Custo,Unificação Matriz X Filiais,Transferência De Impostos,Demais Custos Gerais,Outros Custos
+6010101,Transferência De Impostos,Custo,Unificação Matriz X Filiais,Transferência De Impostos,Transferência De Impostos,Outros Custos
+601010101,Transferência De Impostos Gerados Pelas Filiais,Custo,Unificação Matriz X Filiais,Transferência De Impostos,Transferência De Impostos,Transferência De Impostos Gerados Pelas Filiais
+60102,Transferência De Contas A Pagar,Custo,Unificação Matriz X Filiais,Transferência De Contas A Pagar,Transferência De Impostos,Transferência De Impostos Gerados Pelas Filiais
+6010201,Transferência De Contas A Pagar,Custo,Unificação Matriz X Filiais,Transferência De Contas A Pagar,Transferência De Contas A Pagar,Transferência De Impostos Gerados Pelas Filiais
+601020101,Transferência De Contas A Pagar Gerados Pelas Filiais,Custo,Unificação Matriz X Filiais,Transferência De Contas A Pagar,Transferência De Contas A Pagar,Transferência De Contas A Pagar Gerados Pelas Filiais
+60103,Transferência De Contas A Receber,Custo,Unificação Matriz X Filiais,Transferência De Contas A Receber,Transferência De Contas A Pagar,Transferência De Contas A Pagar Gerados Pelas Filiais
+6010301,Transferência De Contas A Receber,Custo,Unificação Matriz X Filiais,Transferência De Contas A Receber,Transferência De Contas A Receber,Transferência De Contas A Pagar Gerados Pelas Filiais
+601030101,Transferência De Contas A Receber Gerados Pelas Filiais,Custo,Unificação Matriz X Filiais,Transferência De Contas A Receber,Transferência De Contas A Receber,Transferência De Contas A Receber Gerados Pelas Filiais
+602,Contas Diversas,Custo,Contas Diversas,Transferência De Contas A Receber,Transferência De Contas A Receber,Transferência De Contas A Receber Gerados Pelas Filiais
+60201,Saldos Iniciais,Custo,Contas Diversas,Saldos Iniciais,Transferência De Contas A Receber,Transferência De Contas A Receber Gerados Pelas Filiais
+6020101,Saldos Iniciais,Custo,Contas Diversas,Saldos Iniciais,Saldos Iniciais,Transferência De Contas A Receber Gerados Pelas Filiais
+602010101,Saldos Iniciais,Custo,Contas Diversas,Saldos Iniciais,Saldos Iniciais,Saldos Iniciais
+60202,Resultado,Custo,Contas Diversas,Resultado,Saldos Iniciais,Saldos Iniciais
+6020201,Resultado Do Exercício,Custo,Contas Diversas,Resultado,Resultado Do Exercício,Saldos Iniciais
+602020101,Resultado Final De Exercício,Custo,Contas Diversas,Resultado,Resultado Do Exercício,Resultado Final De Exercício
+602020102,Irpj Diferido,Custo,Contas Diversas,Resultado,Resultado Do Exercício,Irpj Diferido
+602020103,Csll Diferida,Custo,Contas Diversas,Resultado,Resultado Do Exercício,Csll Diferida
+600000000000000,Contas De Compensação,Contas De Compensação,Contas Diversas,Resultado,Resultado Do Exercício,Csll Diferida
+700000000000000,Nome Do Grupo 7 De Contas,Nome Do Grupo 7 De Contas,Contas Diversas,Resultado,Resultado Do Exercício,Csll Diferida
+800000000000000,Nome Do Grupo 8 De Contas,Nome Do Grupo 8 De Contas,Contas Diversas,Resultado,Resultado Do Exercício,Csll Diferida
+900000000000000,Nome Do Grupo 9 De Contas,Nome Do Grupo 9 De Contas,Contas Diversas,Resultado,Resultado Do Exercício,Csll Diferida
+A00000000000000,Nome Do Grupo 10 De Contas,Nome Do Grupo 10 De Contas,Contas Diversas,Resultado,Resultado Do Exercício,Csll Diferida
+40101,Despesas Operacionais Das Atividades Em Geral,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Receitas Não Operacionais,Outras Receitas Não Operacionais
+4010101,Despesas Com Pessoal,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Outras Receitas Não Operacionais
+401010101,Remuneração A Dirigentes E A Conselho De Administração,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Remuneração A Dirigentes E A Conselho De Administração
+401010102,"Ordenados, Salários Gratificações E Outras Remunerações A Empregados",Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,"Ordenados, Salários Gratificações E Outras Remunerações A Empregados"
+401010103,Planos De Poupança E Investimentos De Empregados,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Planos De Poupança E Investimentos De Empregados
+401010104,Fundo De Aposentadoria Programada Individual De Empregados,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Fundo De Aposentadoria Programada Individual De Empregados
+401010105,Plano De Previdência Privada De Empregados,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Plano De Previdência Privada De Empregados
+401010106,Serviços Prestados Por Cooperativa De Trabalho,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Serviços Prestados Por Cooperativa De Trabalho
+401010107,Locação De Mão-De-Obra,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Locação De Mão-De-Obra
+401010108,Prestação De Serviço Pessoa Jurídica,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Prestação De Serviço Pessoa Jurídica
+401010109,Férias,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Férias
+401010110,13º Salário,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,13º Salário
+401010111,Salário Estagiários,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Salário Estagiários
+401010112,Aviso Prévio,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Aviso Prévio
+401010113,Rescisões Contratuais,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Rescisões Contratuais
+401010114,Indenizações Trabalhistas,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Indenizações Trabalhistas
+401010115,Provisão 13º Salário,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Provisão 13º Salário
+401010116,Provisão Férias,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Provisão Férias
+401010117,Provisão Fgts 13º Salário,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Provisão Fgts 13º Salário
+401010118,Provisão Fgts Férias,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Provisão Fgts Férias
+401010119,Provisão Inss 13º Salário,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Provisão Inss 13º Salário
+401010120,Provisão Inss Férias,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Provisão Inss Férias
+401010121,Prestação De Serviço Comercial,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Prestação De Serviço Comercial
+401010122,Prestação De Serviços Administrativos,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Prestação De Serviços Administrativos
+401010123,Serviços De Recrutamento E Seleção,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Serviços De Recrutamento E Seleção
+401010199,Outros Gastos Com Pessoal,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Pessoal,Outros Gastos Com Pessoal
+4010102,Encargos Sobre Folha,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos Sobre Folha,Outros Gastos Com Pessoal
+401010201,Pis/Pasep,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos Sobre Folha,Pis/Pasep
+401010202,Encargos Sociais - Previdência Social,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos Sobre Folha,Encargos Sociais - Previdência Social
+401010203,Encargos Sociais - Fgts,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos Sobre Folha,Encargos Sociais - Fgts
+401010204,Encargos Sociais - Outros,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos Sobre Folha,Encargos Sociais - Outros
+401010205,Encargos Sociais - Outros,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos Sobre Folha,Encargos Sociais - Outros
+4010103,Benefícios Sociais Sobre Folha,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Benefícios Sociais Sobre Folha,Encargos Sociais - Outros
+401010301,"Assistência Médica, Odontológica E Farmacêutica A Empregados",Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Benefícios Sociais Sobre Folha,"Assistência Médica, Odontológica E Farmacêutica A Empregados"
+401010302,Benefícios Corporativos,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Benefícios Sociais Sobre Folha,Benefícios Corporativos
+401010303,Equipamentos De Segurança,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Benefícios Sociais Sobre Folha,Equipamentos De Segurança
+401010304,Formação Profissional,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Benefícios Sociais Sobre Folha,Formação Profissional
+401010305,Uniformes E Vestuários,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Benefícios Sociais Sobre Folha,Uniformes E Vestuários
+401010306,Vale Transporte,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Benefícios Sociais Sobre Folha,Vale Transporte
+4010104,Despesas Administrativas,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Vale Transporte
+401010401,Aluguéis,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Aluguéis
+401010402,Despesas Com Veículos E De Conservação De Bens E Instalações,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Despesas Com Veículos E De Conservação De Bens E Instalações
+401010403,Água E Esgoto,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Água E Esgoto
+401010404,Energia Elétrica,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Energia Elétrica
+401010405,Assessoria Contábil,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Assessoria Contábil
+401010406,Despesa Com Segurança,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Despesa Com Segurança
+401010407,Despesas Assessoria E Consultoria,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Despesas Assessoria E Consultoria
+401010408,Honorários Advocatícios,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Honorários Advocatícios
+401010409,Internet,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Internet
+401010410,Telefone E Link De Dados,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Telefone E Link De Dados
+401010411,Manutenção De Software,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Manutenção De Software
+401010412,Prestação Serviço Administrativo Terceiros - Pj,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Prestação Serviço Administrativo Terceiros - Pj
+401010413,Prestação De Serviço Comercial,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Prestação De Serviço Comercial
+401010414,(-) Crédito Pis,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,(-) Crédito Pis
+401010415,(-) Crédito Cofins,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,(-) Crédito Cofins
+401010416,Condominio,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Condominio
+401010417,Material De Marketing,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Material De Marketing
+401010418,Despesas Com Agência De Marketing,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Despesas Com Agência De Marketing
+401010419,Representação Comercial,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Representação Comercial
+401010420,"Serviços De Hospedagem, Armazenamento E Processamento De Dados",Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,"Serviços De Hospedagem, Armazenamento E Processamento De Dados"
+401010421,Licenciamento De Software,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Licenciamento De Software
+401010422,Bens De Pequeno Valores,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Bens De Pequeno Valores
+401010423,Despesas Com Ti,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Despesas Com Ti
+401010424,Despesas Com Comercialização,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Despesas Com Comercialização
+401010499,Outras Despesas Administrativas,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Administrativas,Outras Despesas Administrativas
+4010105,Despesas Gerais,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Outras Despesas Administrativas
+401010501,Amostras,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Amostras
+401010502,Anuidades,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Anuidades
+401010503,Associações E Sindicato,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Associações E Sindicato
+401010504,Cestas Básicas,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Cestas Básicas
+401010505,Contribuição Patronal,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Contribuição Patronal
+401010506,Cópias - Xerox,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Cópias - Xerox
+401010507,Correios E Telégrafos,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Correios E Telégrafos
+401010508,Cursos E Treinamentos,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Cursos E Treinamentos
+401010509,Bens De Natureza Permanente Deduzidos Como Despesa,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Bens De Natureza Permanente Deduzidos Como Despesa
+401010510,Despesa Com Equipamento De Informática,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesa Com Equipamento De Informática
+401010511,Despesas Administrativas Com Cartão De Crédito,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesas Administrativas Com Cartão De Crédito
+401010512,Despesas Ambientais,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesas Ambientais
+401010513,Despesas Com Alimentação,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesas Com Alimentação
+401010514,Despesas Com Copa E Lanches,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesas Com Copa E Lanches
+401010515,Despesas Com Exportações,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesas Com Exportações
+401010516,Despesas Com Importações,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesas Com Importações
+401010517,Despesas Com Gás,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesas Com Gás
+401010518,"Propaganda, Publicidade E Patrocínio",Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,"Propaganda, Publicidade E Patrocínio"
+401010519,"Despesas Com Veículos - Combustível, Manutenção",Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,"Despesas Com Veículos - Combustível, Manutenção"
+401010520,Despesas De Cartório,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesas De Cartório
+401010521,Eventos E Comemorações,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Eventos E Comemorações
+401010522,Feiras E Exposições,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Feiras E Exposições
+401010523,Ferramentas,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Ferramentas
+401010524,Higiene E Limpeza,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Higiene E Limpeza
+401010525,Impressos E Material Para Escritório,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Impressos E Material Para Escritório
+401010526,"Jornais, Revista E Livros",Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,"Jornais, Revista E Livros"
+401010527,Lazer E Esporte,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Lazer E Esporte
+401010528,Manutenção Do Edifício,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Manutenção Do Edifício
+401010529,Manutenção Móveis E Utensílios,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Manutenção Móveis E Utensílios
+401010530,Manutenção Sistema De Telefonia,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Manutenção Sistema De Telefonia
+401010531,Manutenção/Reparo De Máquinas,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Manutenção/Reparo De Máquinas
+401010532,Materiais De Uso E Consumo,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Materiais De Uso E Consumo
+401010533,Peças E Acessórios,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Peças E Acessórios
+401010534,Prestação Serviço Terceiros - Pf,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Prestação Serviço Terceiros - Pf
+401010535,Prestação Serviço Terceiros - Pj,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Prestação Serviço Terceiros - Pj
+401010536,Seguros Diversos,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Seguros Diversos
+401010537,"Despesas Com Viagens, Diárias E Ajuda De Custo",Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,"Despesas Com Viagens, Diárias E Ajuda De Custo"
+401010538,Estacionamento,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Estacionamento
+401010539,Despesas Com Deslocamento,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Despesas Com Deslocamento
+401010540,Cotas Em Tesouraria,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,Cotas Em Tesouraria
+401010599,( - ) Devolução Material Uso Consumo,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Gerais,( - ) Devolução Material Uso Consumo
+4010106,Despesas Com Vendas,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,( - ) Devolução Material Uso Consumo
+401010601,Comissão P/ Geração De Energia,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,Comissão P/ Geração De Energia
+401010602,Comissão P/ Economia De Clientes,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,Comissão P/ Economia De Clientes
+401010603,Comissão P/ Venda De Energia P/ Clientes,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,Comissão P/ Venda De Energia P/ Clientes
+401010604,"Despesas Com Viagens, Diárias E Ajuda De Custo",Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,"Despesas Com Viagens, Diárias E Ajuda De Custo"
+401010605,Fretes E Carretos,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,Fretes E Carretos
+401010606,Prestação Serviço Comercial Terceiros - Pj,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,Prestação Serviço Comercial Terceiros - Pj
+401010607,Despesa Com Cash Back,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,Despesa Com Cash Back
+401010608,Vale Energia,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,Vale Energia
+401010609,Outras Despesa Com Marketing,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Com Vendas,Outras Despesa Com Marketing
+4010107,Despesas Tributárias,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Outras Despesa Com Marketing
+401010701,Pis/Pasep,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Pis/Pasep
+401010702,Cofins,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Cofins
+401010703,Impostos E Taxas Diversas,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Impostos E Taxas Diversas
+401010704,Iof,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Iof
+401010705,Iptu,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Iptu
+401010706,Ipva,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Ipva
+401010707,Irpj S/Aplicações Financeiras,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Irpj S/Aplicações Financeiras
+401010708,Multas Fiscais,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Multas Fiscais
+401010709,Icms Difal,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,Icms Difal
+401010799,"Demais Impostos, Taxas E Contribuições, Exceto Ir E Csll",Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Despesas Tributárias,"Demais Impostos, Taxas E Contribuições, Exceto Ir E Csll"
+4010108,Encargos De Depreciação E Amortização,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos De Depreciação E Amortização,"Demais Impostos, Taxas E Contribuições, Exceto Ir E Csll"
+401010801,Depreciação,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos De Depreciação E Amortização,Depreciação
+401010802,Amortização,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos De Depreciação E Amortização,Amortização
+401010803,( - ) Pis S/ Depreciação E Amortização,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos De Depreciação E Amortização,( - ) Pis S/ Depreciação E Amortização
+401010804,( - ) Cofins S/ Depreciação E Amortização,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos De Depreciação E Amortização,( - ) Cofins S/ Depreciação E Amortização
+401010805,Amortização Arrendamento,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Encargos De Depreciação E Amortização,Amortização Arrendamento
+4010109,Perdas Em Operações De Crédito,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Perdas Em Operações De Crédito,Amortização Arrendamento
+401010901,Perdas Em Operações De Crédito,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Perdas Em Operações De Crédito,Perdas Em Operações De Crédito
+401011001,Despesas Com Loyalty,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Perdas Em Operações De Crédito,Despesas Com Loyalty
+401011002,Despesas Com Cashback,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Perdas Em Operações De Crédito,Despesas Com Cashback
+401011003,Despesas Com Vale Conta De Luz,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Perdas Em Operações De Crédito,Despesas Com Vale Conta De Luz
+4010111,Locação De Equipamentos De Geração De Energia Elétrica(Usina),Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Locação De Equipamentos De Geração De Energia Elétrica(Usina),Despesas Com Vale Conta De Luz
+401011101,Despesa Com Demanda De Usina,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Locação De Equipamentos De Geração De Energia Elétrica(Usina),Despesa Com Demanda De Usina
+401011102,(-) Repasse Com Demanda Da Usina,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Locação De Equipamentos De Geração De Energia Elétrica(Usina),(-) Repasse Com Demanda Da Usina
+401011103,Provisão Locação Variável,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Locação De Equipamentos De Geração De Energia Elétrica(Usina),Provisão Locação Variável
+401011104,Locação De Equipamento De Geração De Energia Elétrica (Usina),Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Locação De Equipamentos De Geração De Energia Elétrica(Usina),Locação De Equipamento De Geração De Energia Elétrica (Usina)
+401011105,Aquisição De Carbono,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Locação De Equipamentos De Geração De Energia Elétrica(Usina),Aquisição De Carbono
+401011106,Despesas Com Operação E Manutenção Da Usina (O&M),Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Locação De Equipamentos De Geração De Energia Elétrica(Usina),Despesas Com Operação E Manutenção Da Usina (O&M)
+401011107,Direito De Preferência,Receita,Despesas Operacionais,Despesas Operacionais Das Atividades Em Geral,Locação De Equipamentos De Geração De Energia Elétrica(Usina),Direito De Preferência
