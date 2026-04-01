@@ -18,7 +18,7 @@ Construir um relatório contábil dinâmico que permita analisar o desempenho fi
 
 ## 📷 Preview do Dashboard
 
-![Preview](/images/preview.png)
+![Preview](/imagens/preview.png)
 
 ---
 
@@ -129,6 +129,7 @@ Publicação no Power BI Service
 
 **Raphael Medeiros**  
 📍 Rio de Janeiro | RJ
+
 🔗 LinkedIn: [https://www.linkedin.com/in/raphael-s-medeiros/]
 
 ---
