@@ -85,23 +85,40 @@ O modelo foi desenvolvido com base em boas práticas de BI, utilizando separaç�
 ## 📂 Estrutura do Projeto
 
 ```bash
-report-contabil-dre-powerbi/
+📦 report-contabil-dre-powerbi/
 │
-├── assets/
-│   └── backgrounds/
+├── 📂assets/
+│   ┗ 📂 backgrounds/
+┃     ┣ Capa.png
+┃     ┣ Pag1.png
+┃     ┣ Pag2.png
+┃     ┣ Pag3.png
+┃     ┗ Tema_Report_Contabil.json
 │
-├── data/
-│   ├── raw/
-│   └── processed/
+├── 📂 dados/
+│   ┣ Calendario.xlsx
+┃   ┣ CenariosOrcamento.xlsx
+┃   ┣ CentroCusto.xlsx
+┃   ┣ DRE.xlsx
+┃   ┣ LancamentosContabeis.xlsx
+┃   ┣ Orcamento.xlsx
+│   ┗  📂 csv/
+│      ┣ Calendario.csv
+┃      ┣ CenariosOrcamento.csv
+┃      ┣ CentroCusto.csv
+┃      ┣ DRE.csv
+┃      ┣ DRE_resumo.csv
+┃      ┣ LancamentosContabeis.csv
+┃      ┣ Orcamento.csv
+┃      ┗ PlanoContas.csv
 │
-├── pbix/
-│   └── dre_dashboard.pbix
+├── 📂images/
+│   ┗ preview.png
 │
-├── images/
-│   └── preview.png
+├── 📂pbix/
+│   ┗ dre_dashboard.pbix
 │
-├── docs/
-│   └── dre_structure.md
+│
 │
 ├── README.md
 ├── data_dictionary.md
